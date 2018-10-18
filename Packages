@@ -1,5 +1,5 @@
 Package: com.dpkg.darktables
-Version: 1.1-1
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
