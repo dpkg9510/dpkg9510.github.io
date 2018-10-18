@@ -6,6 +6,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.darktables_1.0-1+debug_iphoneos-arm.deb
 Size: 3320
 MD5sum: 429f7791e144dc7f13d85ad111498f32
+SHA1: e58f4789ffeebf3af8d9f69eb562ba46261d784e
+SHA256: 7f7f3f4b56459ae4065f68543bac0afe5affd887c73d2e4525eda00a872ed594
 Section: Tweaks
 Description: System-Wide Dark Action Sheet Menus
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -20,6 +22,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.unloadtipsd.deb
 Size: 848
 MD5sum: d11867c319f048a26861507de12b0068
+SHA1: e6b9f95fecd1bc1f5bf6e6855e092b9d8c3f29ef
+SHA256: f4c397de285d96b50ec63c6e2a1438f255e4713fc337cce85004ca97a44430de
 Section: Utilites
 Description: Unloads Tipsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -34,6 +38,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.better3dmenus_2.0-86+debug_iphoneos-arm.deb
 Size: 17034
 MD5sum: bd2ca8675fb90354f9096d4a91018b29
+SHA1: 556c6416843e22104beba58d688edadf0a9cf58b
+SHA256: a0cd1ca60a828c3a56a3bb33daab0c06b93f23b9948682bf319c338268ae920d
 Section: Tweaks
 Description: Better 3D-Touch Menus!
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -48,6 +54,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.ccbigmodules_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3194
 MD5sum: 7a1812dd59c1b7c8170c6ef7c4db8790
+SHA1: 05e2eabe923ec2b5044c991dde5d9a592f07d2e7
+SHA256: 39783334a3e48dff673097a1324c37f3cfeef4f90b4213c288965f56309fe177
 Section: Tweaks
 Description: Bigger CC Modules/Buttons.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -62,6 +70,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.ccnodelay_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3046
 MD5sum: b3ae03f2405596a71fd601848d1b431c
+SHA1: a6adcd731453f062275dd39692097d9c9dae3b19
+SHA256: 49ca18c9c224ee27ecf4aa8f122be62574f21e74b346451f3ccaff9d3dddc98b
 Section: Tweaks
 Description: Fixes LittleX & FUGap CC Delay.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -76,6 +86,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.unloadVSD.deb
 Size: 870
 MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
+SHA1: 556590410094f7cb6b22961bf97c16e5152cfa92
+SHA256: ab75f15da95e1ed3e5441a7dcdb888d84753373da2ff3a09dd4dea883edda735
 Section: Utilites
 Description: Unloads Videosubscriptionsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -90,6 +102,8 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.washaresheetfix_1.0-45+debug_iphoneos-arm.deb
 Size: 7238
 MD5sum: 876373376953e06ef8beba79f017153b
+SHA1: 44dc27d48c2a67dc4418c71854cbddd8a56c6d0d
+SHA256: c80c6cd551aa3cd8623a08b9c1d9e396465de882fbf5052760433a667387f534
 Section: Tweaks
 Description: WA Share Sheet Background Fix For Eclipse X.
 Author: dpkg_ <dpkg9510@gmail.com>
