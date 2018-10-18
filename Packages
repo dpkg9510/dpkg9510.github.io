@@ -10,6 +10,7 @@ Section: Tweaks
 Description: System-Wide Dark Action Sheet Menus
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: DarkTables
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.unloadtipsd
 Version: 1.0
