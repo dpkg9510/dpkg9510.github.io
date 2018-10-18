@@ -45,6 +45,7 @@ Description: Better 3D-Touch Menus!
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: Better3DMenus
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
+Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1

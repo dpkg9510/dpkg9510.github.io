@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>OPTIONS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key1</string>
+			<key>label</key>
+			<string>Reduce Blur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key2</string>
+			<key>label</key>
+			<string>Faster 3d touch</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key3</string>
+			<key>label</key>
+			<string>Reverse items order</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key4</string>
+			<key>label</key>
+			<string>Flip icons to the left</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key5</string>
+			<key>label</key>
+			<string>Hide share app option</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key6</string>
+			<key>label</key>
+			<string>Hide Separators</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key7</string>
+			<key>label</key>
+			<string>Bigger SB Icon in 3d-touch</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key8</string>
+			<key>label</key>
+			<string>Disable Animations</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key9</string>
+			<key>label</key>
+			<string>Square menu</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key10</string>
+			<key>label</key>
+			<string>Split widgets “buggy”</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key11</string>
+			<key>label</key>
+			<string>Ignore first touch</string>
+		</dict>
+		
+             <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.better3dmenus</string>
+			<key>key</key>
+			<string>key12</string>
+			<key>label</key>
+			<string>Red text for NoctisXI</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>NO NEED TO RESPRING.
+Wait 10 seconds for changes to be applied.</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+             <dict>
+			<key>action</key>
+			<string>donate</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Buy me a coffee :)</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Created by /u/dpkg_</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Better3DMenus</string>
+</dict>
+</plist>
