@@ -6,12 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Cool stuff.
-MD5Sum:
- f80f20f10759559c81c9842e5a1fa41a 2340 Packages
- 039139b73b42552d46e21861ed9e01bc 895 Packages.bz2
-SHA1:
- d0a7c2723d54fe17a9c2b191fe336f2e9deb2e06 2340 Packages
- 5f063ef597d4c0f67a8668750e4d6c4e6521252a 895 Packages.bz2
-SHA256:
- de76e94a154755fd0e919d1097dde7fc9613e79bf5eed788e36190249190ab5e 2340 Packages
- 2066a4d3a4a6b75c238da3af883287fc893d4ab613c393198f2a0b217f77f141 895 Packages.bz2
