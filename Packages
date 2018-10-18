@@ -3,11 +3,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.darktables_1.0-1+debug_iphoneos-arm.deb
-Size: 3320
-MD5sum: 429f7791e144dc7f13d85ad111498f32
-SHA1: e58f4789ffeebf3af8d9f69eb562ba46261d784e
-SHA256: 7f7f3f4b56459ae4065f68543bac0afe5affd887c73d2e4525eda00a872ed594
+Filename: ./debs/com.dpkg.darktables_1.0_iphoneos-arm.deb
+Size: 2878
+MD5sum: b4ece6cfb1a4d7eaaa15fe61d8119770
+SHA1: ec4a9cae13e52ec96bba6e0dccc27db3785d6e4d
+SHA256: 072cca02103839032190acc87b9cfe1633dd1ba8e8c2c4d5839853db78d19408
 Section: Tweaks
 Description: System-Wide Dark Action Sheet Menus
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -35,11 +35,11 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.better3dmenus_2.0-86+debug_iphoneos-arm.deb
-Size: 17034
-MD5sum: bd2ca8675fb90354f9096d4a91018b29
-SHA1: 556c6416843e22104beba58d688edadf0a9cf58b
-SHA256: a0cd1ca60a828c3a56a3bb33daab0c06b93f23b9948682bf319c338268ae920d
+Filename: ./debs/com.dpkg.better3dmenus_2.0_iphoneos-arm.deb
+Size: 10984
+MD5sum: 90446699cb7c3ea1265a79ce328dd868
+SHA1: 2132f0c7026c1aa50cf52bc65e6435c2a3b8b0de
+SHA256: 1024cfbf2f78a3790d56ac7158195beac7bec2ee0170a0f5baba8645a5b49bd9
 Section: Tweaks
 Description: Better 3D-Touch Menus!
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -51,11 +51,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.ccbigmodules_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3194
-MD5sum: 7a1812dd59c1b7c8170c6ef7c4db8790
-SHA1: 05e2eabe923ec2b5044c991dde5d9a592f07d2e7
-SHA256: 39783334a3e48dff673097a1324c37f3cfeef4f90b4213c288965f56309fe177
+Filename: ./debs/com.dpkg.ccbigmodules_0.0.1_iphoneos-arm.deb
+Size: 2666
+MD5sum: c76e94ea898a460bfc5c764084234032
+SHA1: ae324d842084c182aec32a0cca83007a891f34f0
+SHA256: b4f97647915b965515edfe34664c003d6f70063b3ec81526a03ce863fc5b9f62
 Section: Tweaks
 Description: Bigger CC Modules/Buttons.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -67,11 +67,11 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.ccnodelay_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3046
-MD5sum: b3ae03f2405596a71fd601848d1b431c
-SHA1: a6adcd731453f062275dd39692097d9c9dae3b19
-SHA256: 49ca18c9c224ee27ecf4aa8f122be62574f21e74b346451f3ccaff9d3dddc98b
+Filename: ./debs/com.dpkg.ccnodelay_0.0.1_iphoneos-arm.deb
+Size: 2564
+MD5sum: 0aaf70135ce1c03de61f84bb57d5e4c1
+SHA1: 289a3352a7021919f93b1a16d03ae0d96414db19
+SHA256: d8f80a0a0afc16b70cdb7f88f174c94ac23e2b9ea127737edb9809a67977f4b1
 Section: Tweaks
 Description: Fixes LittleX & FUGap CC Delay.
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -99,11 +99,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.washaresheetfix_1.0-45+debug_iphoneos-arm.deb
+Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
 Size: 7238
-MD5sum: 876373376953e06ef8beba79f017153b
-SHA1: 44dc27d48c2a67dc4418c71854cbddd8a56c6d0d
-SHA256: c80c6cd551aa3cd8623a08b9c1d9e396465de882fbf5052760433a667387f534
+MD5sum: 77648c2c46cf7b765aea13e02bb600ca27e014c8
+SHA1: 77648c2c46cf7b765aea13e02bb600ca27e014c8
+SHA256: 25596254d3c68de160a411aa1eb4dc7f60fb63ba10d7179ea76110278af03dd0
 Section: Tweaks
 Description: WA Share Sheet Background Fix For Eclipse X.
 Author: dpkg_ <dpkg9510@gmail.com>

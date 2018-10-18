@@ -3,7 +3,7 @@
 	"desc_short": null,
 	"desc_long": "Fixes LittleX & FUGap CC Delay.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>0.0.1-1</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>0.0.1</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"open": true,
 }
