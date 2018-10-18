@@ -63,7 +63,7 @@ Name: CCBigModules
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
 Package: com.dpkg.ccnodelay
-Version: 0.0.1-1+debug
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
