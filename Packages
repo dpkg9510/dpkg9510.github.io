@@ -98,10 +98,8 @@ Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
-Size: 7238
+Size: 6196
 MD5sum: 77648c2c46cf7b765aea13e02bb600ca27e014c8
-SHA1: 77648c2c46cf7b765aea13e02bb600ca27e014c8
-SHA256: 25596254d3c68de160a411aa1eb4dc7f60fb63ba10d7179ea76110278af03dd0
 Section: Tweaks
 Description: WA Share Sheet Background Fix For Eclipse X.
 Author: dpkg_ <dpkg9510@gmail.com>
