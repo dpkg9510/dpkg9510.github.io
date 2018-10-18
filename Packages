@@ -3,7 +3,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.darktables_1.0-1+debug_iphoneos-arm
+Filename: ./debs/com.dpkg.darktables_1.0-1+debug_iphoneos-arm.deb
 Size: 3320
 MD5sum: 429f7791e144dc7f13d85ad111498f32
 Section: Tweaks
@@ -31,7 +31,7 @@ Version: 2.0-86
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.better3dmenus_2.0-86+debug_iphoneos-arm
+Filename: ./debs/com.better3dmenus_2.0-86+debug_iphoneos-arm.deb
 Size: 17034
 MD5sum: bd2ca8675fb90354f9096d4a91018b29
 Section: Tweaks
@@ -45,7 +45,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.ccbigmodules_0.0.1-1+debug_iphoneos-arm
+Filename: ./debs/com.dpkg.ccbigmodules_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3194
 MD5sum: 7a1812dd59c1b7c8170c6ef7c4db8790
 Section: Tweaks
@@ -59,7 +59,7 @@ Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.ccnodelay_0.0.1-1+debug_iphoneos-arm
+Filename: ./debs/com.dpkg.ccnodelay_0.0.1-1+debug_iphoneos-arm.deb
 Size: 3046
 MD5sum: b3ae03f2405596a71fd601848d1b431c
 Section: Tweaks
@@ -73,7 +73,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.unloadVSD
+Filename: ./debs/com.dpkg.unloadVSD.deb
 Size: 870
 MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
 Section: Utilites
@@ -87,7 +87,7 @@ Version: 1.0-45
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.washaresheetfix_1.0-45+debug_iphoneos-arm
+Filename: ./debs/com.dpkg.washaresheetfix_1.0-45+debug_iphoneos-arm.deb
 Size: 7238
 MD5sum: 876373376953e06ef8beba79f017153b
 Section: Tweaks
