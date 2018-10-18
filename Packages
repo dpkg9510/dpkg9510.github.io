@@ -89,7 +89,7 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
 
 Package: com.unloadvsd
 Version: 1.0
-Section: Utilities
+Section: utilities
 Maintainer: dpkg_
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
