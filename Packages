@@ -36,10 +36,10 @@ Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.better3dmenus_2.0_iphoneos-arm.deb
-Size: 10984
-MD5sum: 90446699cb7c3ea1265a79ce328dd868
-SHA1: 2132f0c7026c1aa50cf52bc65e6435c2a3b8b0de
-SHA256: 1024cfbf2f78a3790d56ac7158195beac7bec2ee0170a0f5baba8645a5b49bd9
+Size: 10996
+MD5sum: 789a0eb3874efb3842a88b773b4e1aaf
+SHA1: f1354685990e35bda702f6e833754a9ce1eef0e2
+SHA256: 4a6f2ce03dbff7706c66694570cad88c2ed958e2d577b6392c66dd7a99da259b
 Section: Tweaks
 Description: Better 3D-Touch Menus!
 Author: dpkg_ <dpkg9510@gmail.com>
