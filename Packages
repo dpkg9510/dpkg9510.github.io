@@ -1,109 +1,103 @@
-Package: com.dpkg.darktables
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.darktables_1.0_iphoneos-arm.deb
-Size: 2878
-MD5sum: b4ece6cfb1a4d7eaaa15fe61d8119770
-SHA1: ec4a9cae13e52ec96bba6e0dccc27db3785d6e4d
-SHA256: 072cca02103839032190acc87b9cfe1633dd1ba8e8c2c4d5839853db78d19408
-Section: Tweaks
-Description: System-Wide Dark Action Sheet Menus
-Author: dpkg_ <dpkg9510@gmail.com>
-Name: DarkTables
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
-
-Package: com.dpkg.unloadtipsd
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.unloadtipsd.deb
-Size: 848
-MD5sum: d11867c319f048a26861507de12b0068
-SHA1: e6b9f95fecd1bc1f5bf6e6855e092b9d8c3f29ef
-SHA256: f4c397de285d96b50ec63c6e2a1438f255e4713fc337cce85004ca97a44430de
-Section: Utilites
-Description: Unloads Tipsd whenever you're jailbroken.
-Author: dpkg_ <dpkg9510@gmail.com>
-Name: unloadTipsd
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
-
 Package: com.dpkg.better3dmenus
 Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Tweaks
+Maintainer: dpkg_
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.better3dmenus_2.0_iphoneos-arm.deb
 Size: 10996
+Installed-Size: 260
 MD5sum: 789a0eb3874efb3842a88b773b4e1aaf
-SHA1: f1354685990e35bda702f6e833754a9ce1eef0e2
-SHA256: 4a6f2ce03dbff7706c66694570cad88c2ed958e2d577b6392c66dd7a99da259b
-Section: Tweaks
 Description: Better 3D-Touch Menus!
-Author: dpkg_ <dpkg9510@gmail.com>
 Name: Better3DMenus
+Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
-Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Tweaks
+Maintainer: dpkg_
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccbigmodules_0.0.1_iphoneos-arm.deb
 Size: 2658
+Installed-Size: 120
 MD5sum: 5a3baa148c782d1aeec61bc897acc071
-Section: Tweaks
 Description: Bigger CC Modules/Buttons.
-Author: dpkg_ <dpkg9510@gmail.com>
 Name: CCBigModules
+Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Tweaks
+Maintainer: dpkg_
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccnodelay_0.0.1_iphoneos-arm.deb
 Size: 2564
+Installed-Size: 120
 MD5sum: 0aaf70135ce1c03de61f84bb57d5e4c1
-SHA1: 289a3352a7021919f93b1a16d03ae0d96414db19
-SHA256: d8f80a0a0afc16b70cdb7f88f174c94ac23e2b9ea127737edb9809a67977f4b1
-Section: Tweaks
-Description: Fixes LittleX & FUGap CC Delay.
-Author: dpkg_ <dpkg9510@gmail.com>
+Description: Fixes LittleX & FUGap CC Delay
 Name: CCNoDelay
+Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
-Package: com.dpkg.unloadvsd
+Package: com.dpkg.darktables
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Tweaks
+Maintainer: dpkg_
 Depends: mobilesubstrate
-Filename: ./debs/com.dpkg.unloadVSD.deb
-Size: 870
-MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
-SHA1: 556590410094f7cb6b22961bf97c16e5152cfa92
-SHA256: ab75f15da95e1ed3e5441a7dcdb888d84753373da2ff3a09dd4dea883edda735
-Section: Utilites
-Description: Unloads Videosubscriptionsd whenever you're jailbroken.
-Author: dpkg_ <dpkg9510@gmail.com>
-Name: unloadVSD
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.darktables_1.0_iphoneos-arm.deb
+Size: 2878
+Installed-Size: 120
+MD5sum: b4ece6cfb1a4d7eaaa15fe61d8119770
+Description: System-wide dark action table views.
+Name: DarkTables
+Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.washaresheetfix
 Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Section: Tweaks
+Maintainer: dpkg_
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
 Size: 6196
-MD5sum: 77648c2c46cf7b765aea13e02bb600ca27e014c8
-Section: Tweaks
-Description: WA Share Sheet Background Fix For Eclipse X.
-Author: dpkg_ <dpkg9510@gmail.com>
+Installed-Size: 248
+MD5sum: ce1402754c51d69173d5fb1d6921155c
+Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
+Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
+
+Package: com.unloadtipsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.unloadtipsd.deb
+Size: 848
+MD5sum: d11867c319f048a26861507de12b0068
+Description: Unloads Tipsd whenever you’re jailbroken.
+Name: unloadTipsd
+Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
+
+Package: com.unloadvsd
+Version: 1.0
+Section: utilities
+Maintainer: dpkg_
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.unloadVSD.deb
+Size: 870
+MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
+Description: Unloads Videosupscriptionsd whenever you’re jailbroken.
+Name: unloadVSD
+Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
