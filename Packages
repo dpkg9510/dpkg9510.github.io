@@ -111,7 +111,7 @@ Filename: ./debs/com.dpkg.unloadwbd.deb
 Size: 874
 MD5sum: 468fa3d1ccec5293c227ebb1df77091a
 Description: Unloads Webbookmarksd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadWbd
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadwbd
 
@@ -125,7 +125,7 @@ Filename: ./debs/com.dpkg.unloaduad.deb
 Size: 874
 MD5sum: 3938c44876c739d50d4cee302d8b9d2c
 Description: Unloads Useractivityd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadUad
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloaduad
 
@@ -139,7 +139,7 @@ Filename: ./debs/com.dpkg.unloadnano.deb
 Size: 866
 MD5sum: 7f51d820857456d374c24f9bea08b73e
 Description: Unloads Nanobackupd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadNano
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadnano
 
@@ -153,7 +153,7 @@ Filename: ./debs/com.dpkg.unloadnfcd.deb
 Size: 862
 MD5sum: 44dda4f5664bc709b7fca2596e128039
 Description: Unloads Nfcd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadNfcd
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadnfcd
 
@@ -167,7 +167,7 @@ Filename: ./debs/com.dpkg.unloadrpd.deb
 Size: 860
 MD5sum: c8103bb50e963a755907d8eeb6ea7d33
 Description: Unloads Rapportd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadRpd
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadrpd
 
@@ -181,7 +181,7 @@ Filename: ./debs/com.dpkg.unloadschpa.deb
 Size: 878
 MD5sum: 812dd9a6d9d90fd50d3e6caf5e67cc8b
 Description: Unloads SafariCloudHistoryPushAgentd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadSchpa
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadschpa
 
@@ -195,7 +195,7 @@ Filename: ./debs/com.dpkg.unloadatd.deb
 Size: 864
 MD5sum: beeb1a89e2022fe77bca438b3891915b
 Description: Unloads Adtrackingd whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadAtd
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadatd
 
@@ -209,6 +209,6 @@ Filename: ./debs/com.dpkg.unloadapd.deb
 Size: 866
 MD5sum: b1c4abd8a381e3038c58a7dece559ad4
 Description: Unloads Askpermissiond whenever you’re jailbroken.
-Name: unloadVSD
+Name: unloadApd
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadapd
