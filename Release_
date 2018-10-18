@@ -1,0 +1,8 @@
+Origin: dpkg9510's Repo
+Label: dpkg9510's Repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Cool stuff.
