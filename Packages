@@ -28,7 +28,6 @@ Name: CCBigModules
 Author: dpkg_
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
-
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
 Section: Tweaks
