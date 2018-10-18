@@ -1,0 +1,9 @@
+{
+	"name": "unloadWbd",
+	"desc_short": "",
+	"desc_long": "Unloads Webbookmarksd whenever you're jailbroken.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- This Package is installed in /etc/rc.d <br>",
+	"screenshot": null,
+	"open": true,
+}
