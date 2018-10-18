@@ -24,7 +24,7 @@ Section: Utilites
 Description: Unloads Tipsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: unloadTipsd
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.tipsd
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
 
 Package: com.dpkg.better3dmenus
 Version: 2.0-86
