@@ -11,3 +11,15 @@ Description: System-Wide Dark Action Sheet Menus
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: DarkTables
 
+Package: com.dpkg.unloadtipsd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: /unloadtipsd.deb
+Size: 848
+MD5sum: d11867c319f048a26861507de12b0068
+Section: Utilites
+Description: Unloads Tipsd whenever you're jailbroken.
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: unloadTipsd
