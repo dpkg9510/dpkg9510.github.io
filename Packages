@@ -1,5 +1,5 @@
 Package: com.dpkg.darktables
-Version: 1.0-1
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
@@ -27,7 +27,7 @@ Name: unloadTipsd
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
 
 Package: com.dpkg.better3dmenus
-Version: 2.0-86
+Version: 2.0-86+debug
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
@@ -41,7 +41,7 @@ Name: Better3DMenus
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 
 Package: com.dpkg.ccbigmodules
-Version: 0.0.1-1
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
@@ -55,7 +55,7 @@ Name: CCBigModules
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
 Package: com.dpkg.ccnodelay
-Version: 0.0.1-1
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
@@ -83,7 +83,7 @@ Name: unloadVSD
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
 Package: com.dpkg.washaresheetfix
-Version: 1.0-45
+Version: 1.0-45+debug
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
