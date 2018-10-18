@@ -11,6 +11,7 @@ MD5sum: 789a0eb3874efb3842a88b773b4e1aaf
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
@@ -25,6 +26,8 @@ MD5sum: 5a3baa148c782d1aeec61bc897acc071
 Description: Bigger CC Modules/Buttons.
 Name: CCBigModules
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
+
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
@@ -39,6 +42,7 @@ MD5sum: 0aaf70135ce1c03de61f84bb57d5e4c1
 Description: Fixes LittleX & FUGap CC Delay
 Name: CCNoDelay
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
 Package: com.dpkg.darktables
 Version: 1.0
@@ -53,6 +57,7 @@ MD5sum: b4ece6cfb1a4d7eaaa15fe61d8119770
 Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.washaresheetfix
 Version: 1.0
@@ -67,6 +72,7 @@ MD5sum: ce1402754c51d69173d5fb1d6921155c
 Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
 
 Package: com.unloadtipsd
 Version: 1.0
@@ -80,6 +86,7 @@ MD5sum: d11867c319f048a26861507de12b0068
 Description: Unloads Tipsd whenever you’re jailbroken.
 Name: unloadTipsd
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
 
 Package: com.unloadvsd
 Version: 1.0
@@ -93,4 +100,5 @@ MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
 Description: Unloads Videosupscriptionsd whenever you’re jailbroken.
 Name: unloadVSD
 Author: dpkg_
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
