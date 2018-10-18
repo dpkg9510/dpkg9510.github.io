@@ -3,7 +3,7 @@ Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: /darktables.deb
+Filename: ./debs/com.dpkg.darktables_1.0-1+debug_iphoneos-arm
 Size: 3320
 MD5sum: 429f7791e144dc7f13d85ad111498f32
 Section: Tweaks
@@ -16,10 +16,75 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Filename: /unloadtipsd.deb
+Filename: ./debs/com.dpkg.unloadtipsd.deb
 Size: 848
 MD5sum: d11867c319f048a26861507de12b0068
 Section: Utilites
 Description: Unloads Tipsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: unloadTipsd
+
+Package: com.dpkg.better3dmenus
+Version: 2.0-86
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.better3dmenus_2.0-86+debug_iphoneos-arm
+Size: 17034
+MD5sum: bd2ca8675fb90354f9096d4a91018b29
+Section: Tweaks
+Description: Better 3D-Touch Menus!
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: Better3DMenus
+
+Package: com.dpkg.ccbigmodules
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.dpkg.ccbigmodules_0.0.1-1+debug_iphoneos-arm
+Size: 3194
+MD5sum: 7a1812dd59c1b7c8170c6ef7c4db8790
+Section: Tweaks
+Description: Bigger CC Modules/Buttons.
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: CCBigModules
+
+Package: com.dpkg.ccnodelay
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.dpkg.ccnodelay_0.0.1-1+debug_iphoneos-arm
+Size: 3046
+MD5sum: b3ae03f2405596a71fd601848d1b431c
+Section: Tweaks
+Description: Fixes LittleX & FUGap CC Delay.
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: CCNoDelay
+
+Package: com.dpkg.unloadvsd
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.dpkg.unloadVSD
+Size: 870
+MD5sum: 730e2de16105a8bdaf0fa8f19d5a9a73
+Section: Utilites
+Description: Unloads Videosubscriptionsd whenever you're jailbroken.
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: unloadVSD
+
+Package: com.dpkg.washaresheetfix
+Version: 1.0-45
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.dpkg.washaresheetfix_1.0-45+debug_iphoneos-arm
+Size: 7238
+MD5sum: 876373376953e06ef8beba79f017153b
+Section: Tweaks
+Description: WA Share Sheet Background Fix For Eclipse X.
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: WAShareSheetFix
