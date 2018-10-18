@@ -54,8 +54,6 @@ Depends: mobilesubstrate
 Filename: ./debs/com.dpkg.ccbigmodules_0.0.1_iphoneos-arm.deb
 Size: 2666
 MD5sum: c76e94ea898a460bfc5c764084234032
-SHA1: ae324d842084c182aec32a0cca83007a891f34f0
-SHA256: b4f97647915b965515edfe34664c003d6f70063b3ec81526a03ce863fc5b9f62
 Section: Tweaks
 Description: Bigger CC Modules/Buttons.
 Author: dpkg_ <dpkg9510@gmail.com>
