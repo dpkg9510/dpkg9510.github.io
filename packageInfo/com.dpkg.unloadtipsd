@@ -1,0 +1,9 @@
+{
+	"name": "UnloadTipsd",
+	"desc_short": "",
+	"desc_long": "Unloads Tipsd whenever you're jailbroken.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}

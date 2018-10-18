@@ -24,6 +24,7 @@ Section: Utilites
 Description: Unloads Tipsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: unloadTipsd
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.tipsd
 
 Package: com.dpkg.better3dmenus
 Version: 2.0-86
@@ -37,6 +38,7 @@ Section: Tweaks
 Description: Better 3D-Touch Menus!
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: Better3DMenus
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1-1
@@ -50,6 +52,7 @@ Section: Tweaks
 Description: Bigger CC Modules/Buttons.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: CCBigModules
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1-1
@@ -63,6 +66,7 @@ Section: Tweaks
 Description: Fixes LittleX & FUGap CC Delay.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: CCNoDelay
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
 Package: com.dpkg.unloadvsd
 Version: 1.0
@@ -76,6 +80,7 @@ Section: Utilites
 Description: Unloads Videosubscriptionsd whenever you're jailbroken.
 Author: dpkg_ <dpkg9510@gmail.com>
 Name: unloadVSD
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
 Package: com.dpkg.washaresheetfix
 Version: 1.0-45
