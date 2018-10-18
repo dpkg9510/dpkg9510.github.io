@@ -5,9 +5,6 @@
 <meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
-<script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=46545663394"></script>
-<body onload="loadRecentUpdates();">
 <h2>dpkg9510's Repo</h2>
 <ul>
 	<li>
@@ -18,7 +15,6 @@
 	</li>
 </ul>
 <p style="text-align:center;">Repo: http://dpkg9510.github.io/</p>
-<span id="updates_" hidden><h2>Last Updates</h2><ul id="updates"></ul></span>
 <h2>Buy Me A Coffee!</h2>
 <ul>
 	<li>
