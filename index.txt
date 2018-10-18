@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html><head>
+<title>dpkg9510's Repo</title>
+<link rel='stylesheet' type='text/css' href='ios7.css'/>
+<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="description.js?_=46545663394"></script>
+<body onload="loadRecentUpdates();">
+<h2>dpkg9510's Repo</h2>
+<ul>
+	<li>
+		<a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://dpkg9510.github.io/">
+			<img class="icon" src="cydia7.png"/>
+			Open Cydia</label>
+		</a>
+	</li>
+</ul>
+<p style="text-align:center;">Repo: http://dpkg9510.github.io/</p>
+<span id="updates_" hidden><h2>Last Updates</h2><ul id="updates"></ul></span>
+<h2>Buy Me A Coffee!</h2>
+<ul>
+	<li>
+		<a href="https://www.paypal.me/mrefaey0" target="_blank">
+			<img class="icon" src="pp.png"/>
+			<label>Donate</label>
+		</a>
+	</li>
+</ul>
+<h2>Follow Me</h2>
+<ul>
+	<li>
+		<a href="https://github.com/dpkg9510" target="_blank">
+			<img class="icon" src="github.png"/>
+			<label>My GitHub</label>
+		</a>
+	</li>
+	<li>
+		<a href="https://www.reddit.com/user/dpkg_" target="_blank">
+			<img class="icon" src="reddit.png"/>
+			<label>My Reddit</label>
+		</a>
+	</li>
+	<li>
+		<a href="https://twitter.com/dpkg_" target="_blank">
+			<img class="icon" src="twitter.png"/>
+			<label>My Twitter</label>
+		</a>
+	</li>
+</ul>
+<p style="text-align:center;">/u/dpkg_ © 2018</p>
+</body></html>

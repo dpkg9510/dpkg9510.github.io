@@ -1,0 +1,13 @@
+Package: com.dpkg.darktables
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Filename: /darktables.deb
+Size: 3320
+MD5sum: 429f7791e144dc7f13d85ad111498f32
+Section: Tweaks
+Description: System-Wide Dark Action Sheet Menus
+Author: dpkg_ <dpkg9510@gmail.com>
+Name: DarkTables
+
