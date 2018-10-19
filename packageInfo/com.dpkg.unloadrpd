@@ -5,6 +5,6 @@
 	"compatitle": "iOS 11",
 	"changelog": "<strong>1.0</strong><br>- This Package is installed in /etc/rc.d <br>",
 	"screenshot": null,
-	"notes": "<strong>WARNING</strong><br>Don't install this one unless you're having serious issues with rapportd.<br>",
+	"warning": "<strong>WARNING</strong><br>Don't install this one unless you're having serious issues with rapportd.<br>",
 	"open": true,
 }
