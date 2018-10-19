@@ -61,7 +61,7 @@ function loadPackageInfo() {
 				$("#screenshot").html(decodeResp.screenshot);
 				$("#screenshot_").show();
 			}
-			if(decodeResp.changelog) {
+			if(decodeResp.notes) {
 				$("#notes").html(decodeResp.notes);
 				$("#notes_").show();
 			}
