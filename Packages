@@ -213,3 +213,17 @@ Description: Unloads Askpermissiond whenever you’re jailbroken.
 Name: unloadApd
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadapd
+
+Package: com.mwhitetext
+Version: 0.1
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.mwhitetext_0.1_iphoneos-arm.deb
+Size: 2778
+MD5sum: fb4e7e1915adf0eb5bdd6fffb9ca45cd
+Description: Fixes the now playing text for dark mode tweaks in Music.
+Name: MWhiteText
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
