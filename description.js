@@ -61,6 +61,10 @@ function loadPackageInfo() {
 				$("#screenshot").html(decodeResp.screenshot);
 				$("#screenshot_").show();
 			}
+			if(decodeResp.changelog) {
+				$("#notes").html(decodeResp.notes);
+				$("#notes_").show();
+			}
 			if(decodeResp.open == true) {
 				$("#is_open_source_").show();
 			}
