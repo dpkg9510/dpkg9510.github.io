@@ -3,7 +3,7 @@
 	"desc_short": "Dark Action Sheet Tables",
 	"desc_long": "System-Wide Dark Action Tables View",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>1.1</strong><br>Changed text color to white.<br><strong>1.0</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>1.1</strong><br>- Changed text color to white.<br><strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/CYJ225e.png' target='_blank'><img width=95% src='https://i.imgur.com/CYJ225e.png'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/1SnFPlZ.jpg' target='_blank'><img width=95% src='https://i.imgur.com/1SnFPlZ.jpg'/></a><br></div>",
 	"notes": "Use it with a darkmode tweak.",
 	"open": true,
