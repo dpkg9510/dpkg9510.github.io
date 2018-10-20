@@ -45,34 +45,49 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
 Package: com.dpkg.darktables
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.darktables_1.1_iphoneos-arm.deb
-Size: 3060
+Filename: ./debs/com.dpkg.darktables_1.2_iphoneos-arm.deb
+Size: 2874
 Installed-Size: 120
-MD5sum: cb5d0cde2c843b0cf81c939a94810291
+MD5sum: 7a2c21f0ac3c68f3238367cff6551448
 Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.mwhitetext
-Version: 0.1
+Version: 0.2
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.mwhitetext_0.1_iphoneos-arm.deb
-Size: 2778
+Filename: ./debs/com.dpkg.mwhitetext_0.2_iphoneos-arm.deb
+Size: 2794
 Installed-Size: 120
-MD5sum: fb4e7e1915adf0eb5bdd6fffb9ca45cd
-Description: White text in the music app.
+MD5sum: 1091c348348041e7191157121fbd39b2
+Description: Fixes the now playing text in the music app.
 Name: MWhiteText
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
+
+Package: com.dpkg.nouicacheplz
+Version: 1.0
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.nouicacheplz_1.0_iphoneos-arm.deb
+Size: 2758
+Installed-Size: 120
+MD5sum: 3c9608af244661fb2e42fc5ce4db7a9d
+Description: Stop Cydia from running UICache with every package installation.
+Name: NoUICachePlz
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
 
 Package: com.dpkg.washaresheetfix
 Version: 1.0

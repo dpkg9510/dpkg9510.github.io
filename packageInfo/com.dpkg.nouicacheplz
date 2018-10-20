@@ -1,0 +1,11 @@
+{
+	"name": "NoUICachePlz",
+	"desc_short": "",
+	"desc_long": "Stop Cydia from running UICache with every package installation.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- Initial Release<br>",
+	"screenshot": null,
+	"warning": "<strong>WARNING</strong><br>This is for Electra only, as it's already implemented in Unc0ver.<br>",
+	"notes": "Works with every version of Electra."
+	"open": true,
+}
