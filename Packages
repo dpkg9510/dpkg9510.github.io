@@ -11,7 +11,7 @@ MD5sum: 8518b9f98e44c4a36ef8cbeeb116a153
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
 Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus1
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.ccbigmodules
@@ -87,7 +87,7 @@ MD5sum: 3ca1d6e661700b270e66fe79537e9339
 Description: Remove headers from widgets and banners.
 Name: NoHeaders
 Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.noheaders1
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.noheaders
 
 Package: com.dpkg.nouicacheplz
 Version: 1.0
