@@ -74,6 +74,21 @@ Name: MWhiteText
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
 
+Package: com.dpkg.noheaders
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.noheaders_0.0.1_iphoneos-arm.deb
+Size: 2854
+Installed-Size: 120
+MD5sum: 3ca1d6e661700b270e66fe79537e9339
+Description: Remove headers from widgets and banners.
+Name: NoHeaders
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.noheaders
+
 Package: com.dpkg.nouicacheplz
 Version: 1.0
 Section: Tweaks

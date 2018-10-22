@@ -1,0 +1,11 @@
+{
+	"name": "NoHeaders",
+	"desc_short": "",
+	"desc_long": "Remove headers from widgets and banners.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.1</strong><br>- Initial Release<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/4sqn7Fo.jpg' target='_blank'><img width=95% src='https://i.imgur.com/4sqn7Fo.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/VDQf3MB.jpg' target='_blank'><img width=95% src='https://i.imgur.com/VDQf3MB.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/6F9ndEX.png' target='_blank'><img width=95% src='https://i.imgur.com/6F9ndEX.png'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/yTKLcJJ.jpg' target='_blank'><img width=95% src='https://i.imgur.com/yTKLcJJ.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/QH6ohZe.jpg' target='_blank'><img width=95% src='https://i.imgur.com/QH6ohZe.jpg'/></a><br></div>",
+	"warning": null,
+	"notes": "Works with ColorBanners 2 and Palette.",
+	"open": true,
+}
