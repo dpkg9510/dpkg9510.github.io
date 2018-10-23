@@ -1,0 +1,9 @@
+Package: com.dpkg.washaresheetfix
+Name: WAShareSheetFix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: WA Share Sheet Background Fix For Eclipse.
+Maintainer: dpkg_
+Author: dpkg_
+Section: Tweaks
