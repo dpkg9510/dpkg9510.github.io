@@ -59,21 +59,6 @@ Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
-Package: com.dpkg.mwhitetext
-Version: 0.2
-Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.mwhitetext_0.2_iphoneos-arm.deb
-Size: 2794
-Installed-Size: 120
-MD5sum: 1091c348348041e7191157121fbd39b2
-Description: Fixes the now playing text in the music app.
-Name: MWhiteText
-Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
-
 Package: com.dpkg.noheaders
 Version: 0.0.1
 Section: Tweaks
@@ -103,21 +88,6 @@ Description: Stop Cydia from running UICache with every package installation.
 Name: NoUICachePlz
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
-
-Package: com.dpkg.washaresheetfix
-Version: 1.0
-Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
-Size: 6196
-Installed-Size: 248
-MD5sum: ce1402754c51d69173d5fb1d6921155c
-Description: WA Share Sheet Background Fix For Eclipse.
-Name: WAShareSheetFix
-Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
 
 Package: com.unloadapd
 Version: 1.0
