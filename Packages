@@ -245,6 +245,21 @@ Name: unloadVSD
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
+Package: com.unloadvsd2
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.unloadVSD2.deb
+Size: 856
+MD5sum: e6f3cf37868b48ae568cba60458d61c2
+Description: Dependency for ByeVSD.
+Name: unloadVSD2
+Author: dpkg_ <dpkg9510@gmail.com>
+Conflicts: com.unloadvsd
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd2
+
 Package: com.unloadwbd
 Version: 1.0
 Section: Utilities
