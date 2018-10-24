@@ -1,0 +1,10 @@
+{
+	"name": "ByeVSD",
+	"desc_short": "",
+	"desc_long": "A better way to stop Videosubscriptionsd.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+	"screenshot": null,
+	"notes": "Works with Electra and Unc0ver.",
+	"open": true,
+}

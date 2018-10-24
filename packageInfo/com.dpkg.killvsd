@@ -1,0 +1,11 @@
+{
+	"name": "KillVSD",
+	"desc_short": "",
+	"desc_long": "Kill Videosubscriptionsd.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
+	"screenshot": null,
+	"warning": "<strong>WARNING</strong><br>Never install this if you use the iTunes Store, install ByeVSD instead.<br>",
+	"notes": "Works with Electra and Unc0ver.",
+	"open": true,
+}

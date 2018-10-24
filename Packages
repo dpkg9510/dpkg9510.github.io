@@ -14,6 +14,21 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
+Package: com.byevsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate, com.unloadvsd2
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.byevsd.deb
+Size: 836
+MD5sum: cab9a47cf71d48734b8fdc284d235b79
+Description: A better way to stop Videosubscriptionsd.
+Name: ByeVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Conflicts: com.unloadvsd, com.killvsd
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.byevsd
+
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
 Section: Tweaks
@@ -58,6 +73,21 @@ Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
+
+Package: com.killvsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.killvsd.deb
+Size: 768
+MD5sum: 40cb536a4288acbe34a2404d7794681e
+Description: Kill Videosubscriptionsd.
+Name: KillVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Conflicts: com.unloadvsd, com.unloadvsd2
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.killvsd
 
 Package: com.dpkg.noheaders
 Version: 0.0.1
