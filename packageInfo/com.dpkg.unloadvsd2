@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "Dependency for ByeVSD.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>2.0</strong><br>- Rewrote it, should fix a couple of issues some users were having.<br><strong>1.0</strong><br>- This Package is installed in /etc/rc.d<br>",
+	"changelog": "<strong>2.0</strong><br>- Should fix a couple of issues some users were having.<br><strong>1.0</strong><br>- This Package is installed in /etc/rc.d<br>",
 	"screenshot": null,
 	"open": true,
 }

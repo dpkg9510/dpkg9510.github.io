@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "A powerful, yet safe way to stop Videosubscriptionsd.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>2.0</strong><br>- Let me know if you still get any VSD crashes with this update.<br><strong>1.0</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>2.0</strong><br>- Let me know if you get any VSD crashes with this update.<br><strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"notes": "Works with Electra and Unc0ver.",
 	"open": true,
