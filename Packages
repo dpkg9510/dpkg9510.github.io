@@ -15,18 +15,18 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.byevsd
-Version: 1.0
+Version: 2.0
 Section: Utilities
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, com.unloadvsd2
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.byevsd.deb
-Size: 836
-MD5sum: cab9a47cf71d48734b8fdc284d235b79
-Description: A better way to stop Videosubscriptionsd.
+Size: 872
+MD5sum: 396b1f93a578ae723c0d76102cbed4d1
+Description: A powerful, yet safe way to stop Videosubscriptionsd.
 Name: ByeVSD
 Author: dpkg_ <dpkg9510@gmail.com>
-Conflicts: com.unloadvsd, com.killvsd
+Conflicts: com.killvsd, com.unloadvsd
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.byevsd
 
 Package: com.dpkg.ccbigmodules
@@ -246,14 +246,14 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
 Package: com.unloadvsd2
-Version: 1.0
+Version: 2.0
 Section: Utilities
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadvsd2.deb
 Size: 856
-MD5sum: e6f3cf37868b48ae568cba60458d61c2
+MD5sum: c2500482e97abf6caeb09fcc9deba80d
 Description: Dependency for ByeVSD.
 Name: unloadVSD2
 Author: dpkg_ <dpkg9510@gmail.com>
