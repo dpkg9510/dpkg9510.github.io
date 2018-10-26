@@ -1,3 +1,18 @@
+Package: com.byevsd
+Version: 2.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate, com.unloadvsd2
+Conflicts: com.unloadvsd, com.killvsd
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.byevsd.deb
+Size: 872
+MD5sum: 396b1f93a578ae723c0d76102cbed4d1
+Description: A powerful, yet safe way to stop Videosubscriptionsd.
+Name: ByeVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.byevsd
+
 Package: com.dpkg.better3dmenus
 Version: 2.1
 Section: Tweaks
@@ -13,21 +28,6 @@ Name: Better3DMenus
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
-
-Package: com.byevsd
-Version: 2.0
-Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate, com.unloadvsd2
-Conflicts: com.unloadvsd, com.killvsd
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.byevsd.deb
-Size: 872
-MD5sum: 396b1f93a578ae723c0d76102cbed4d1
-Description: A powerful, yet safe way to stop Videosubscriptionsd.
-Name: ByeVSD
-Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.byevsd
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
@@ -73,21 +73,6 @@ Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
-
-Package: com.killvsd
-Version: 1.0
-Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Conflicts: com.unloadvsd, com.unloadvsd2
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.killvsd.deb
-Size: 768
-MD5sum: 40cb536a4288acbe34a2404d7794681e
-Description: Kill Videosubscriptionsd.
-Name: KillVSD
-Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.killvsd
 
 Package: com.dpkg.mwhitetext
 Version: 0.2
@@ -148,6 +133,21 @@ Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
+
+Package: com.killvsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.unloadvsd2
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.killvsd.deb
+Size: 768
+MD5sum: 40cb536a4288acbe34a2404d7794681e
+Description: Kill Videosubscriptionsd.
+Name: KillVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.killvsd
 
 Package: com.unloadapd
 Version: 1.0
