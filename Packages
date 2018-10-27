@@ -134,6 +134,21 @@ Name: WAShareSheetFix
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
 
+Package: com.exvsd
+Version: 1.0
+Section: System
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.killvsd, com.unloadvsd, com.unloadvsd2, com.byevsd
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.exvsd.deb
+Size: 1346
+MD5sum: a6e46d0929ab439475ab4ce2d8ba1ace
+Description: A launchd property list file that disables Videosubscriptionsd.
+Name: EXVSD
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.exvsd
+
 Package: com.killvsd
 Version: 1.0
 Section: Utilities
