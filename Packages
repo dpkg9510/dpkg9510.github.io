@@ -19,7 +19,7 @@ Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.better3dmenus_2.1_iphoneos-arm.deb
+Filename: ./debs/com.dpkg.better3dmenus_2.2_iphoneos-arm.deb
 Size: 11384
 Installed-Size: 260
 MD5sum: cad46db35b4bffd5c8b7e152dc5d678e
