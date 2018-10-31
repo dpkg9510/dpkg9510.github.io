@@ -59,6 +59,21 @@ Name: CCNoDelay
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
+Package: com.dpkg.darkdocuments
+Version: 1.0
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.darkdocuments_1.0_iphoneos-arm.deb
+Size: 3508
+Installed-Size: 120
+MD5sum: deb554810177ca40b69d300a79cce979
+Description: A better dark mode for the documents app.
+Name: DarkDocuments
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darkdocuments
+
 Package: com.dpkg.darktables
 Version: 1.2
 Section: Tweaks
