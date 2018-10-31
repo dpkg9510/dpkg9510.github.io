@@ -74,6 +74,21 @@ Name: DarkDocuments
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darkdocuments
 
+Package: com.dpkg.darkmode4boom
+Version: 0.1
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.darkmode4boom_0.1_iphoneos-arm.deb
+Size: 3316
+Installed-Size: 120
+MD5sum: ff080ac4323fe4f3d7ba4bb1614b759a
+Description: Dark mode for Boom app.
+Name: DarkMode4Boom
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darkmode4boom
+
 Package: com.dpkg.darktables
 Version: 1.2
 Section: Tweaks
@@ -88,6 +103,21 @@ Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
+
+Package: com.dpkg.darkweather
+Version: 1.0
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.darkweather_1.0_iphoneos-arm.deb
+Size: 2970
+Installed-Size: 120
+MD5sum: ae296b283239cf0e2f0af73ea7bd4381
+Description: Dark mode for the Weather app.
+Name: DarkWeather
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darkweather
 
 Package: com.dpkg.mwhitetext
 Version: 0.2
