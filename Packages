@@ -43,7 +43,7 @@ Description: Bigger CC Modules/Buttons.
 Name: CCBigModules
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
-Icon: file:///packageInfo/icon@2x.png
+Icon: ./packageInfo/icon@2x.png
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
