@@ -119,6 +119,21 @@ Name: NoUICachePlz
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
 
+Package: com.dpkg.vhud
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.VHUD_0.0.1_iphoneos-arm.deb
+Size: 2486
+Installed-Size: 120
+MD5sum: d32028e5ef7e2b3d0240915841774cf2
+Description: Show the system volume HUD in all apps.
+Name: VHUD
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.vhud
+
 Package: com.dpkg.washaresheetfix
 Version: 1.0
 Section: Tweaks

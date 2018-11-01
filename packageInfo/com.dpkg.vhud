@@ -1,0 +1,9 @@
+{
+	"name": "VHUD",
+	"desc_short": null,
+	"desc_long": "Show the system volume HUD in apps that use a custom one like Instagram and Apollo.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>0.0.1</strong><br>- Initial Release.<br>",
+	"screenshot": null,
+	"open": true,
+}
