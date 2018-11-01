@@ -43,7 +43,6 @@ Description: Bigger CC Modules/Buttons.
 Name: CCBigModules
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
-Icon: file:///packageInfo/icon@2x.png
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
@@ -148,7 +147,7 @@ MD5sum: ce1402754c51d69173d5fb1d6921155c
 Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
 Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfish
 
 Package: com.exvsd
 Version: 1.0
