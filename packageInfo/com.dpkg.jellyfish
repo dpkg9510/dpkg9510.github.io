@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "A true-black dark mode for many apps",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>0.1.1b</strong><br>Added support for:<br> Notes - Spotify (Perfect!) FB & Messenger as an early beta (both broken atm).<br>Fixed bugs in:<br>Apollo - WhatsApp.<strong>0.1.0b</strong><br>- Initial Release.<br><br>Features: Dark keyboard, dark UIAlertController view and a darker CC background.<br>supported apps:<br>Apollo - Stocks - Reminders - Health - Weather - Boom - Documents - Calendar - Google Translate - TV App - Contacts - iBooks - CodeHub - Aviary - WhatsApp - News - Twitter - Snapchat - Instagram - Photos - Cydia - Settings.",
+	"changelog": "<strong>0.1.1b</strong><br>Added support for:<br> Notes - Spotify (Perfect!) FB & Messenger as an early beta (both broken atm).<br>Fixed bugs in:<br>Apollo - WhatsApp.<br><strong>0.1.0b</strong><br>- Initial Release.<br><br>Features: Dark keyboard, dark UIAlertController view and a darker CC background.<br>supported apps:<br>Apollo - Stocks - Reminders - Health - Weather - Boom - Documents - Calendar - Google Translate - TV App - Contacts - iBooks - CodeHub - Aviary - WhatsApp - News - Twitter - Snapchat - Instagram - Photos - Cydia - Settings.",
 	"screenshot": "<div style='text-align:center;'><a href='https://imgur.com/a/pgbs9dc/' target='_blank'><img width=95% src='https://i.imgur.com/mLt0Ctq.jpg'/></a><br></div>",
 	"notes": "Configure options from settings",
 	"warning": "<strong>Beta Package</strong><br>Expect some bugs/glitches here and there, you can turn it on/off for each app individually in iCleanerPro.<br>",
