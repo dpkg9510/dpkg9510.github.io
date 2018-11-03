@@ -108,7 +108,7 @@ Package: com.dpkg.jellyfish
 Version: 0.1.0b
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.jellyfish_0.1.0b_iphoneos-arm.deb
 Size: 45442
