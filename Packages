@@ -105,15 +105,15 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.jellyfish
-Version: 0.1.1b
+Version: 0.1.2b
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.jellyfish_0.1.1b_iphoneos-arm.deb
-Size: 51148
+Filename: ./debs/com.dpkg.jellyfish_0.1.2b_iphoneos-arm.deb
+Size: 52894
 Installed-Size: 3392
-MD5sum: df0ec34465a4fe3a6de3977d3b686907
+MD5sum: e7adbf2a7d32784f04bf844ebaed9a2c
 Description: A true-black dark mode.
 Name: Jellyfish
 Author: dpkg_ <dpkg9510@gmail.com>
