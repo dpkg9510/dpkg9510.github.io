@@ -59,6 +59,21 @@ Name: CCBigModules
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
+Package: com.dpkg.ccblackbg
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.ccblackbg_0.0.1_iphoneos-arm.deb
+Size: 2938
+Installed-Size: 120
+MD5sum: 40dcf614fdae5c6ac128f23a58ace9d8
+Description: A bug-free black CC background.
+Name: CCBlackBG
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccblackbg
+
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
 Section: Tweaks
