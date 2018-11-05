@@ -29,15 +29,15 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.apollo4oled
 
 Package: com.dpkg.better3dmenus
-Version: 2.2
+Version: 2.3
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.better3dmenus_2.2_iphoneos-arm.deb
-Size: 11384
-Installed-Size: 260
-MD5sum: cad46db35b4bffd5c8b7e152dc5d678e
+Filename: ./debs/com.dpkg.better3dmenus_2.3_iphoneos-arm.deb
+Size: 13050
+Installed-Size: 264
+MD5sum: d9a5ed81d46379cefe25bc0e6a50a23b
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
 Author: dpkg_ <dpkg9510@gmail.com>
