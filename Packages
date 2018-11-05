@@ -113,7 +113,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.darktables_1.5_iphoneos-arm.deb
 Size: 7578
 Installed-Size: 248
-MD5sum: de125077f0038d8f4ec521f0fdf03bcc
+MD5sum: 14857e56e0f4436c9aa1429cd1f30d1d
 Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
