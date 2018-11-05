@@ -105,13 +105,13 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.darktables
-Version: 1.4
+Version: 1.5
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.darktables_1.4_iphoneos-arm.deb
-Size: 7550
+Filename: ./debs/com.dpkg.darktables_1.5_iphoneos-arm.deb
+Size: 7578
 Installed-Size: 248
 MD5sum: de125077f0038d8f4ec521f0fdf03bcc
 Description: System-wide dark action table views.
@@ -120,15 +120,15 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.jellyfish
-Version: 0.1.2b
+Version: 0.1.3b
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.jellyfish_0.1.2b_iphoneos-arm.deb
-Size: 52894
+Filename: ./debs/com.dpkg.jellyfish_0.1.3b_iphoneos-arm.deb
+Size: 54136
 Installed-Size: 3392
-MD5sum: e7adbf2a7d32784f04bf844ebaed9a2c
+MD5sum: b3c54b940dad3b783c1b5f8e19f198b3
 Description: A true-black dark mode.
 Name: Jellyfish
 Author: dpkg_ <dpkg9510@gmail.com>
