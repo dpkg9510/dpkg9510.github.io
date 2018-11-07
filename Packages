@@ -105,15 +105,15 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.darktables
-Version: 1.8
+Version: 1.9
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.darktables_1.8_iphoneos-arm.deb
-Size: 7834
+Filename: ./debs/com.dpkg.darktables_1.9_iphoneos-arm.deb
+Size: 8064
 Installed-Size: 248
-MD5sum: 5f0aff03608ffe361ff5a67dd1586fe9
+MD5sum: de2872663ee78e13f867d989eb872d74
 Description: System-wide dark action table views.
 Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
