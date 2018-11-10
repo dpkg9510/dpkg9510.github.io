@@ -126,7 +126,7 @@ Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.jellyfish_0.1.9b_iphoneos-arm.deb
-Size: 659652
+Size: 65952
 Installed-Size: 3632
 MD5sum: 156b9ac297499b68288da434b900ab52
 Description: A true-black dark mode.
