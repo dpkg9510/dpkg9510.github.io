@@ -324,6 +324,20 @@ Name: unloadSchpa
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadschpa
 
+Package: com.unloadsd
+Version: 1.0
+Section: Utilities
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.unloadsd.deb
+Size: 850
+MD5sum: 0b5921f6abac1082567d6ebf12a3f997
+Description: Unloads Sharingd whenever you’re jailbroken.
+Name: unloadSd
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadsd
+
 Package: com.unloadtipsd
 Version: 1.0
 Section: Utilities

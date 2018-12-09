@@ -1,0 +1,10 @@
+{
+	"name": "unloadSd",
+	"desc_short": "",
+	"desc_long": "Unloads Sharingd whenever you're jailbroken.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>1.0</strong><br>- This Package is installed in /etc/rc.d <br>",
+	"screenshot": null,
+	"warning": "<strong>WARNING</strong><br>Use with caution. Should NOT be installed if you use AirDrop, Handoff or Instant Hotspot.<br>",
+	"open": true,
+}
