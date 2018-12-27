@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "A powerful, yet safe way to stop Videosubscriptionsd.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>3.1</strong><br>- Fixed the random restarts for the unc0ver users.<br><strong>3.0</strong><br>- It doesn’t need the dependency anymore, also improved the way how it works.<br><strong>2.0</strong><br>- Let me know if you get any VSD crashes with this update.<br><strong>1.0</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>4.0</strong><br>- Minor improvements.<br><strong>3.1</strong><br>- Fixed the random restarts for the unc0ver users.<br><strong>3.0</strong><br>- It doesn’t need the dependency anymore, also improved the way how it works.<br><strong>2.0</strong><br>- Let me know if you get any VSD crashes with this update.<br><strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"notes": "Works with Electra and Unc0ver.",
 	"open": true,
