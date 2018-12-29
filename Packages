@@ -1,13 +1,13 @@
 Package: com.byevsd
-Version: 4.0
+Version: 4.1
 Section: System
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
-Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.smokin1337.smartlpm
+Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.byevsd.deb
-Size: 924
-MD5sum: 6cac21fb8696bf5acb115dab2419d40b
+Size: 910
+MD5sum: 05652f02fa55477f3bfff29a640f7e5e
 Description: A powerful, yet safe way to stop Videosubscriptionsd.
 Name: ByeVSD
 Author: dpkg_ <dpkg9510@gmail.com>
