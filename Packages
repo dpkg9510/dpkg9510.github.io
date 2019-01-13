@@ -45,15 +45,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.blurbe
-Version: 1.0.2
+Version: 1.0.3
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.blurbe_1.0.2_iphoneos-arm.deb
-Size: 4782
-Installed-Size: 240
-MD5sum: 413f5f5427c0d56b2d4130cff10f4f21
+Filename: ./debs/com.dpkg.blurbe_1.0.3_iphoneos-arm.deb
+Size: 13476
+Installed-Size: 376
+MD5sum: 3b1a2e8a7b2adaa989df6501d453c22a
 Description: Darker blur in many areas. 
 Name: Blurbe
 Author: dpkg_ <dpkg9510@gmail.com>
