@@ -52,7 +52,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.blurbe_1.0.2_iphoneos-arm.deb
 Size: 4782
-Installed-Size: 120
+Installed-Size: 240
 MD5sum: 413f5f5427c0d56b2d4130cff10f4f21
 Description: Darker blur in many areas. 
 Name: Blurbe
