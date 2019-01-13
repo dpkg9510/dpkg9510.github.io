@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "System-wide dark blur.",
 	"compatitle": "iOS 11",
-	"changelog": "<strong>1.0.0</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>1.0.1</strong><br>- Added support for the Keyboard.<br><strong>1.0.0</strong><br>- Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='http://imgur.com/a/jppzhtB' target='_blank'><img width=95% src='https://i.imgur.com/j4KiwWT.jpg'/></a><br></div>",
 	"notes": "",
 	"warning": "",
