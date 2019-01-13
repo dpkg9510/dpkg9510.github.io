@@ -50,10 +50,10 @@ Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.blurbe_1.0.1_iphoneos-arm.deb
-Size: 3780
+Filename: ./debs/com.dpkg.blurbe_1.0.2_iphoneos-arm.deb
+Size: 4782
 Installed-Size: 120
-MD5sum: cb4bdcce42a9f14664f179bb60524f68
+MD5sum: 413f5f5427c0d56b2d4130cff10f4f21
 Description: Darker blur in many areas. 
 Name: Blurbe
 Author: dpkg_ <dpkg9510@gmail.com>
