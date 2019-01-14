@@ -6,6 +6,6 @@
 	"changelog": "<strong>1.0.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"warning": "Use it if you’re having excessive CPU usage or poor battery life. *Uninstalling restores stock functionality.<br>",
-	"notes": "Tested on Electra1131. It should also work on Unc0ver.",
+	"notes": "Tested on Electra, it should also work on Unc0ver.",
 	"open": true,
 }
