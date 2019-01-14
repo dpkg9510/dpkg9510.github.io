@@ -68,8 +68,8 @@ Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
-Size: 938
-MD5sum: dc9fa2445c37e7dd2628f1459eb7cd0c
+Size: 944
+MD5sum: 70d61eeb4c512d7b2d91639cedc5dd6f
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: dpkg_ <dpkg9510@gmail.com>
