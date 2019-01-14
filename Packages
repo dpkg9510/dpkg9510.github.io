@@ -70,7 +70,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
 Size: 938
 MD5sum: dc9fa2445c37e7dd2628f1459eb7cd0c
-Description: Disable some useless daemons.
+Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cappd

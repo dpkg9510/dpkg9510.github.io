@@ -1,11 +1,11 @@
 {
 	"name": "Cappd",
 	"desc_short": "",
-	"desc_long": "Disable some useless daemons for a better Jailbreak experience. *Uninstalling restores stock functionality.",
+	"desc_long": "Disable some executables and launch daemons for a better Jailbreak experience.",
 	"compatitle": "iOS 11",
 	"changelog": "<strong>1.0.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
-	"warning": "<strong>WARNING</strong><br>Disabling daemons is a bad habit, only install if you’re having excessive CPU usage or poor battery life.<br>",
-	"notes": "Tested on Electra1131. But it should work just fine on Unc0ver as well.",
+	"warning": "Use it if you’re having excessive CPU usage or poor battery life. *Uninstalling restores stock functionality.<br>",
+	"notes": "Tested on Electra1131. it should also work on Unc0ver.",
 	"open": true,
 }
