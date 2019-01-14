@@ -58,6 +58,22 @@ Description: Darker blur in many areas.
 Name: Blurbe
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
+Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
+
+Package: com.dpkg.cappd
+Version: 1.0.0
+Section: Administration
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.cappd.deb
+Size: 938
+MD5sum: dc9fa2445c37e7dd2628f1459eb7cd0c
+Description: Disable some useless daemons.
+Name: Cappd
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cappd
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
@@ -409,21 +425,6 @@ Description: Unloads Videosupscriptionsd whenever you’re jailbroken.
 Name: unloadVSD
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
-
-Package: com.unloadvsd2
-Version: 2.0
-Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Conflicts: com.unloadvsd
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.unloadvsd2.deb
-Size: 856
-MD5sum: c2500482e97abf6caeb09fcc9deba80d
-Description: Dependency for ByeVSD.
-Name: unloadVSD2
-Author: dpkg_ <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd2
 
 Package: com.unloadwbd
 Version: 1.0
