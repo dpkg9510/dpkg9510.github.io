@@ -2,7 +2,7 @@
 	"name": "MusicLibraryFix",
 	"desc_short": "",
 	"desc_long": "A fix for the errors you get when importing music with Cercube, MImport and even iTunes.",
-	"compatitle": "iOS 11",
+	"compatitle": "iOS 9, iOS 10 and iOS 11",
 	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"warning": "<strong>WARNING</strong><br>This will delete your existing library upon installing/reinstalling, you’ll have to re-sync it so keep that in mind.<br>",
