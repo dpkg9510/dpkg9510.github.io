@@ -181,6 +181,20 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfish
 Icon: file:///Library/PreferenceBundles/Jellyfish.bundle/icon@2x.png
 
+Package: com.dpkg.musiclibraryfix
+Version: 1.0
+Section: System
+Maintainer: dpkg_ <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.musiclibraryfix.deb
+Size: 772
+MD5sum: 901be31c293b6efd2e4e32fc9eda6e83
+Description: Fix the errors you get when importing music.
+Name: MusicLibraryFix
+Author: dpkg_ <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.musiclibraryfix
+
 Package: com.dpkg.mwhitetext
 Version: 0.2
 Section: Tweaks
