@@ -29,15 +29,15 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.apollo4oled
 
 Package: com.dpkg.better3dmenus
-Version: 2.3
+Version: 2.4
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.better3dmenus_2.3_iphoneos-arm.deb
-Size: 13050
+Filename: ./debs/com.dpkg.better3dmenus_2.4_iphoneos-arm.deb
+Size: 17014
 Installed-Size: 264
-MD5sum: d9a5ed81d46379cefe25bc0e6a50a23b
+MD5sum: c7efd5ad577a38d86d92654e018a4d8a
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -45,15 +45,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.blurbe
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.blurbe_1.0.4_iphoneos-arm.deb
-Size: 13456
-Installed-Size: 376
-MD5sum: ecaeb4382d5f1fbacf61bc504749b520
+Filename: ./debs/com.dpkg.blurbe_1.0.5_iphoneos-arm.deb
+Size: 13628
+Installed-Size: 256
+MD5sum: b15d607f622360eaa6c675c28755f908
 Description: Darker blur in many areas. 
 Name: Blurbe
 Author: dpkg_ <dpkg9510@gmail.com>
@@ -61,15 +61,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
 Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
 
 Package: com.dpkg.cappd
-Version: 1.0.0
+Version: 1.0.1
 Section: Administration
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
-Size: 944
-MD5sum: 70d61eeb4c512d7b2d91639cedc5dd6f
+Size: 936
+MD5sum: 242a08c99613aa3208f3ae418eb51e15
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: dpkg_ <dpkg9510@gmail.com>
