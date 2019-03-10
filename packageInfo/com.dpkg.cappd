@@ -3,7 +3,7 @@
 	"desc_short": "",
 	"desc_long": "Disable some executables and launch daemons for a better Jailbreak experience (Improved battery life, better performance and less crashes).",
 	"compatitle": "iOS 10, iOS 11 and iOS 12",
-	"changelog": "<strong>1.0.1</strong><br>- iOS 12 Support<br>- Added atwakeup to the list.<br><strong>1.0.0</strong><br>- Initial Release.<br>",
+	"changelog": "<strong>1.0.1</strong><br>- iOS 12 Support.<br>- Added atwakeup to the list.<br><strong>1.0.0</strong><br>- Initial Release.<br>",
 	"screenshot": null,
 	"warning": "Use it if you’re having excessive CPU usage or poor battery life. *Uninstalling restores stock functionality.<br>",
 	"notes": "Tested on Electra and Unc0ver.",
