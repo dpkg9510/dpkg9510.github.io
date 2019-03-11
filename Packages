@@ -61,15 +61,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
 Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
 
 Package: com.dpkg.cappd
-Version: 1.0.1
+Version: 1.0.2
 Section: Administration
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
-Size: 936
-MD5sum: 242a08c99613aa3208f3ae418eb51e15
+Size: 992
+MD5sum: d0f6f3607a5d4a3b454c2e682c8f38b7
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: dpkg_ <dpkg9510@gmail.com>
