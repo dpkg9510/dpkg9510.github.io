@@ -5,6 +5,6 @@
 	"compatitle": "iOS 12",
 	"changelog": "<strong>1.0</strong><br>- Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/mjnMhd9.jpg' target='_blank'><img width=95% src='https://i.imgur.com/mjnMhd9.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/VrPpzCZ.jpg' target='_blank'><img width=95% src='https://i.imgur.com/VrPpzCZ.jpg'/></a><br></div>",
-	"warning": "<br>This enables the iPhone X statusbar only, if you want a full iPhone X experience (with gestures and other stuff) use HomeGesture.<br>",
+	"note": "<br>This enables the iPhone X statusbar only, if you want a full iPhone X experience (with gestures and other stuff) use HomeGesture.<br>",
 	"open": true,
 }
