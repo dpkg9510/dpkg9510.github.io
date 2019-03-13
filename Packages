@@ -165,6 +165,21 @@ Name: DarkTables
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
+Package: com.dpkg.ipadswitcher
+Version: 1.0
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.ipadswitcher_1.0_iphoneos-arm.deb
+Size: 8346
+Installed-Size: 248
+MD5sum: a92ed3effaa45b14d02ed9b873b12b8a
+Description: Bring the iPad grid switcher to any device.
+Name: iPadSwitcher
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ipadswitcher
+
 Package: com.dpkg.jellyfish
 Version: 0.1.9b
 Section: Tweaks
@@ -239,6 +254,21 @@ Description: Stop Cydia from running UICache with every package installation.
 Name: NoUICachePlz
 Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
+
+Package: com.dpkg.statusbarxs
+Version: 1.0
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.statusbarxs_1.0_iphoneos-arm.deb
+Size: 3650
+Installed-Size: 120
+MD5sum: 3c9608af244661fb2e42fc5ce4db7a9d
+Description: Enable the “modern” statusbar on any device.
+Name: StatusBarXS
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.statusbarxs
 
 Package: com.dpkg.vhud
 Version: 0.0.1
