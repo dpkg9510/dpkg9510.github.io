@@ -45,7 +45,7 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.blurbe
-Version: 1.0.5
+Version: 1.0.6
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate
@@ -151,7 +151,7 @@ Author: dpkg_ <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.darktables
-Version: 1.9
+Version: 2.0
 Section: Tweaks
 Maintainer: dpkg_ <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
