@@ -1,7 +1,7 @@
 Package: com.byevsd
 Version: 4.1
 Section: System
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd
 Architecture: iphoneos-arm
@@ -10,13 +10,13 @@ Size: 910
 MD5sum: 05652f02fa55477f3bfff29a640f7e5e
 Description: A powerful, yet safe way to stop Videosubscriptionsd.
 Name: ByeVSD
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.byevsd
 
 Package: com.dpkg.apollo4oled
 Version: 1.3
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.apollo4oled_1.3_iphoneos-arm.deb
@@ -25,13 +25,13 @@ Installed-Size: 120
 MD5sum: 253df5adc02e94d1cc9452bf77459b6b
 Description: True-black theme for Apollo.
 Name: Apollo4OLED
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.apollo4oled
 
 Package: com.dpkg.better3dmenus
 Version: 2.4
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.better3dmenus_2.4_iphoneos-arm.deb
@@ -40,14 +40,14 @@ Installed-Size: 264
 MD5sum: c7efd5ad577a38d86d92654e018a4d8a
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.better3dmenus
 Icon: file:///Library/PreferenceBundles/better3DMenus.bundle/icon@2x.png
 
 Package: com.dpkg.blurbe
-Version: 1.0.6
+Version: 1.0.5
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.blurbe_1.0.5_iphoneos-arm.deb
@@ -56,14 +56,14 @@ Installed-Size: 256
 MD5sum: b15d607f622360eaa6c675c28755f908
 Description: Darker blur in many areas. 
 Name: Blurbe
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
 Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
 
 Package: com.dpkg.cappd
 Version: 1.0.2
 Section: Administration
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
@@ -72,13 +72,13 @@ Size: 942
 MD5sum: 1189ffae16cb0e5856d620b95d51b0a1
 Description: Safely disable some executables/daemons.
 Name: Cappd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cappd
 
 Package: com.dpkg.ccbigmodules
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccbigmodules_0.0.1_iphoneos-arm.deb
@@ -87,13 +87,13 @@ Installed-Size: 120
 MD5sum: 5a3baa148c782d1aeec61bc897acc071
 Description: Bigger CC Modules/Buttons.
 Name: CCBigModules
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccbigmodules
 
 Package: com.dpkg.ccblackbg
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccblackbg_0.0.1_iphoneos-arm.deb
@@ -102,13 +102,13 @@ Installed-Size: 120
 MD5sum: 40dcf614fdae5c6ac128f23a58ace9d8
 Description: A bug-free black CC background.
 Name: CCBlackBG
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccblackbg
 
 Package: com.dpkg.ccdarkblur
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccdarkblur_0.0.1_iphoneos-arm.deb
@@ -117,13 +117,13 @@ Installed-Size: 120
 MD5sum: 44e1ce3553634fe4bcecdfe3fbaf7b1b
 Description: Darker CC Blur.
 Name: CCDarkBlur
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccdarkblur
 
 Package: com.dpkg.ccnodelay
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.ccnodelay_0.0.1_iphoneos-arm.deb
@@ -132,13 +132,13 @@ Installed-Size: 120
 MD5sum: 0aaf70135ce1c03de61f84bb57d5e4c1
 Description: Fixes LittleX & FUGap CC Delay
 Name: CCNoDelay
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ccnodelay
 
 Package: com.dpkg.cleanui
 Version: 1.0
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cleanui_1.0_iphoneos-arm.deb
@@ -147,13 +147,13 @@ Installed-Size: 152
 MD5sum: 5d71b949fbc00d97dabc7b943c3f3ae8
 Description: A cleaner user interface.
 Name: CleanUI
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.darktables
-Version: 2.0
+Version: 1.9
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.darktables_1.9_iphoneos-arm.deb
@@ -162,7 +162,7 @@ Installed-Size: 248
 MD5sum: de2872663ee78e13f867d989eb872d74
 Description: System-wide dark action table views.
 Name: DarkTables
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.darktables
 
 Package: com.dpkg.ipadswitcher
@@ -183,7 +183,7 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ipadswitcher
 Package: com.dpkg.jellyfish
 Version: 0.1.9b
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.jellyfish_0.1.9b_iphoneos-arm.deb
@@ -192,14 +192,14 @@ Installed-Size: 3632
 MD5sum: 156b9ac297499b68288da434b900ab52
 Description: A true-black dark mode.
 Name: Jellyfish
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfish
 Icon: file:///Library/PreferenceBundles/Jellyfish.bundle/icon@2x.png
 
 Package: com.dpkg.musiclibraryfix
 Version: 1.0
 Section: System
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.musiclibraryfix.deb
@@ -207,13 +207,13 @@ Size: 772
 MD5sum: 901be31c293b6efd2e4e32fc9eda6e83
 Description: Fix the errors you get when importing music.
 Name: MusicLibraryFix
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.musiclibraryfix
 
 Package: com.dpkg.mwhitetext
 Version: 0.2
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.mwhitetext_0.2_iphoneos-arm.deb
@@ -222,13 +222,13 @@ Installed-Size: 120
 MD5sum: 1091c348348041e7191157121fbd39b2
 Description: Fixes the now playing text in the music app.
 Name: MWhiteText
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
 
 Package: com.dpkg.noheaders
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.noheaders_0.0.1_iphoneos-arm.deb
@@ -237,13 +237,13 @@ Installed-Size: 120
 MD5sum: 3ca1d6e661700b270e66fe79537e9339
 Description: Remove headers from widgets and banners.
 Name: NoHeaders
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.noheaders
 
 Package: com.dpkg.nouicacheplz
 Version: 1.0
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.nouicacheplz_1.0_iphoneos-arm.deb
@@ -252,7 +252,7 @@ Installed-Size: 120
 MD5sum: 3c9608af244661fb2e42fc5ce4db7a9d
 Description: Stop Cydia from running UICache with every package installation.
 Name: NoUICachePlz
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
 
 Package: com.dpkg.statusbarxs
@@ -273,7 +273,7 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.statusbarxs
 Package: com.dpkg.vhud
 Version: 0.0.1
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.VHUD_0.0.1_iphoneos-arm.deb
@@ -282,13 +282,13 @@ Installed-Size: 120
 MD5sum: d32028e5ef7e2b3d0240915841774cf2
 Description: Show the system volume HUD in all apps.
 Name: VHUD
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.vhud
 
 Package: com.dpkg.washaresheetfix
 Version: 1.0
 Section: Tweaks
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
@@ -297,13 +297,13 @@ Installed-Size: 248
 MD5sum: ce1402754c51d69173d5fb1d6921155c
 Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.washaresheetfix
 
 Package: com.exvsd
 Version: 1.0
 Section: System
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.killvsd, com.unloadvsd, com.unloadvsd2, com.byevsd
 Architecture: iphoneos-arm
@@ -312,13 +312,13 @@ Size: 1346
 MD5sum: a6e46d0929ab439475ab4ce2d8ba1ace
 Description: A launchd property list file that disables Videosubscriptionsd.
 Name: EXVSD
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.exvsd
 
 Package: com.killvsd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.unloadvsd2
 Architecture: iphoneos-arm
@@ -327,13 +327,13 @@ Size: 768
 MD5sum: 40cb536a4288acbe34a2404d7794681e
 Description: Kill Videosubscriptionsd.
 Name: KillVSD
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.killvsd
 
 Package: com.unloadapd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadapd.deb
@@ -341,13 +341,13 @@ Size: 866
 MD5sum: b1c4abd8a381e3038c58a7dece559ad4
 Description: Unloads Askpermissiond whenever you’re jailbroken.
 Name: unloadApd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadapd
 
 Package: com.unloadatd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadatd.deb
@@ -355,13 +355,13 @@ Size: 864
 MD5sum: beeb1a89e2022fe77bca438b3891915b
 Description: Unloads Adtrackingd whenever you’re jailbroken.
 Name: unloadAtd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadatd
 
 Package: com.unloadnano
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadnano.deb
@@ -369,13 +369,13 @@ Size: 866
 MD5sum: 7f51d820857456d374c24f9bea08b73e
 Description: Unloads Nanobackupd whenever you’re jailbroken.
 Name: unloadNano
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadnano
 
 Package: com.unloadnfcd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadnfcd.deb
@@ -383,13 +383,13 @@ Size: 862
 MD5sum: 44dda4f5664bc709b7fca2596e128039
 Description: Unloads Nfcd whenever you’re jailbroken.
 Name: unloadNfcd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadnfcd
 
 Package: com.unloadrpd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadrpd.deb
@@ -397,13 +397,13 @@ Size: 860
 MD5sum: c8103bb50e963a755907d8eeb6ea7d33
 Description: Unloads Rapportd whenever you’re jailbroken.
 Name: unloadRpd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadrpd
 
 Package: com.unloadschpa
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadschpa.deb
@@ -411,13 +411,13 @@ Size: 878
 MD5sum: 812dd9a6d9d90fd50d3e6caf5e67cc8b
 Description: Unloads SafariCloudHistoryPushAgentd whenever you’re jailbroken.
 Name: unloadSchpa
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadschpa
 
 Package: com.unloadsd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadsd.deb
@@ -425,13 +425,13 @@ Size: 850
 MD5sum: 0b5921f6abac1082567d6ebf12a3f997
 Description: Unloads Sharingd whenever you’re jailbroken.
 Name: unloadSd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadsd
 
 Package: com.unloadtipsd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadtipsd.deb
@@ -439,13 +439,13 @@ Size: 848
 MD5sum: d11867c319f048a26861507de12b0068
 Description: Unloads Tipsd whenever you’re jailbroken.
 Name: unloadTipsd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadtipsd
 
 Package: com.unloaduad
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloaduad.deb
@@ -453,13 +453,13 @@ Size: 874
 MD5sum: 3938c44876c739d50d4cee302d8b9d2c
 Description: Unloads Useractivityd whenever you’re jailbroken.
 Name: unloadUad
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloaduad
 
 Package: com.unloadvsd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadVSD.deb
@@ -467,13 +467,13 @@ Size: 1700
 MD5sum: 44a9c0bec9823a9cda4fd49cb4161743
 Description: Unloads Videosupscriptionsd whenever you’re jailbroken.
 Name: unloadVSD
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadvsd
 
 Package: com.unloadwbd
 Version: 1.0
 Section: Utilities
-Maintainer: dpkg_ <dpkg9510@gmail.com>
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadwbd.deb
@@ -481,5 +481,5 @@ Size: 874
 MD5sum: 468fa3d1ccec5293c227ebb1df77091a
 Description: Unloads Webbookmarksd whenever you’re jailbroken.
 Name: unloadWbd
-Author: dpkg_ <dpkg9510@gmail.com>
+Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.unloadwbd
