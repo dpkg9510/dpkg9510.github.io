@@ -271,15 +271,15 @@ Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nouicacheplz
 
 Package: com.dpkg.statusbarxs
-Version: 1.1
+Version: 1.2
 Section: Tweaks
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.statusbarxs_1.1_iphoneos-arm.deb
-Size: 3644
+Filename: ./debs/com.dpkg.statusbarxs_1.2_iphoneos-arm.deb
+Size: 3656
 Installed-Size: 120
-MD5sum: 24b7c991e3b0191df13d46a49ca66b8c
+MD5sum: e95337113eef977d10bbcb8371b454aa
 Description: Enable the “modern” statusbar on any device.
 Name: StatusBarXS
 Author: Mohamed Galal <dpkg9510@gmail.com>
