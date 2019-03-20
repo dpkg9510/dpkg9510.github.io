@@ -150,7 +150,7 @@ Name: CleanUI
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
-Package: com.dpkg.custombatteryview
+Package: com.dpkg.custombatterycolor
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
