@@ -150,6 +150,22 @@ Name: CleanUI
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
+Package: com.dpkg.custombatteryview
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.custombatteryview_0.1.1_iphoneos-arm.deb
+Size: 11290
+Installed-Size: 252
+MD5sum: 91419362614eec35ff15b692c2f87df6
+Description: Set a custom color for the battery view.
+Name: CustomBatteryColor
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.custombatterycolor
+Icon: file:///Library/PreferenceBundles/CustomBatteryColor.bundle/icon@2x.png
+
 Package: com.dpkg.darktables
 Version: 1.9
 Section: Tweaks
