@@ -166,6 +166,22 @@ Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.custombatterycolor
 Icon: file:///Library/PreferenceBundles/CustomBatteryColor.bundle/icon@2x.png
 
+Package: com.dpkg.customcccolor
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.customcccolor_0.0.1_iphoneos-arm.deb
+Size: 16186
+Installed-Size: 256
+MD5sum: 7ef4d82750f64c018bde81d18fa503ed
+Description: Set a custom CC background color.
+Name: CustomCCColor
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.customcccolor
+Icon: file:///Library/PreferenceBundles/CustomCCColor.bundle/icon@2x.png
+
 Package: com.dpkg.darktables
 Version: 1.9
 Section: Tweaks

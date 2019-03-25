@@ -1,0 +1,10 @@
+{
+	"name": "CustomCCColor",
+	"desc_short": null,
+	"desc_long": "Customize the background color of your control center.",
+	"compatitle": "iOS 11 and iOS 12",
+	"changelog": "<strong>0.0.1</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/nL3SktW.jpg' target='_blank'><img width=95% src='https://i.imgur.com/nL3SktW.jpg'/></a><br></div>",
+	"notes": "Configure options from settings",
+	"open": true,
+}
