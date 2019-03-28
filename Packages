@@ -61,15 +61,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
 Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
 
 Package: com.dpkg.cappd
-Version: 1.0.2
+Version: 1.0.2-1
 Section: Administration
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
-Size: 942
-MD5sum: 1189ffae16cb0e5856d620b95d51b0a1
+Size: 964
+MD5sum: 26e532676e037990360718b74eecce07
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -271,6 +271,21 @@ Description: Fixes the now playing text in the music app.
 Name: MWhiteText
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.mwhitetext
+
+Package: com.dpkg.nocursor
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.nocursor_0.0.1_iphoneos-arm.deb
+Size: 3308
+Installed-Size: 120
+MD5sum: 5f9234c9eecb5e72189b7ce5565a6f61
+Description: Disable the cursor when typing anywhere.
+Name: NoCursor
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.nocursor
 
 Package: com.dpkg.noheaders
 Version: 0.0.1
