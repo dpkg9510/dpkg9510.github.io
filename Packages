@@ -257,7 +257,7 @@ Description: A free OLED-friendly dark mode.
 Name: JellyfishXS
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfishxs
-Icon: file:///Library/PreferenceBundles/Jellyfishxs.bundle/icon@2x.png
+Icon: file:///Library/PreferenceBundles/JellyfishXS.bundle/icon@2x.png
 
 Package: com.dpkg.musiclibraryfix
 Version: 1.0
