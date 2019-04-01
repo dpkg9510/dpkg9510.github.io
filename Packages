@@ -61,15 +61,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.blurbe
 Icon: file:///Library/PreferenceBundles/Blurbe.bundle/image.png
 
 Package: com.dpkg.cappd
-Version: 1.0.2-1
+Version: 1.0.3
 Section: Administration
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.unloadvsd, com.killvsd, com.unloadvsd2, com.exvsd, com.byevsd, com.unloadatd, com.unloadapd, com.unloadnano, com.unloaduad, com.unloadtipsd, com.unloadschpa, com.unloadwbd
 Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
-Size: 964
-MD5sum: 26e532676e037990360718b74eecce07
+Size: 996
+MD5sum: 426876416e412a6e4a67f20b81ec022b
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -242,6 +242,22 @@ Name: Jellyfish
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfish
 Icon: file:///Library/PreferenceBundles/Jellyfish.bundle/icon@2x.png
+
+Package: com.dpkg.jellyfishxs
+Version: 0.9.9-1
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.jellyfishxs_0.9.9-1_iphoneos-arm.deb
+Size: 30842
+Installed-Size: 296
+MD5sum: 0feedbb786df4f13e503daf04d9cc925
+Description: A free OLED-friendly dark mode.
+Name: JellyfishXS
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfishxs
+Icon: file:///Library/PreferenceBundles/Jellyfishxs.bundle/icon@2x.png
 
 Package: com.dpkg.musiclibraryfix
 Version: 1.0

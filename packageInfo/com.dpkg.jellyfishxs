@@ -1,0 +1,11 @@
+{
+	"name": "JellyfishXS",
+	"desc_short": "",
+	"desc_long": "A dark mode that is OLED-friendly, has many system-wide options and made with love <3",
+	"compatitle": "iOS 12",
+	"changelog": "<strong>0.9.9-1</strong><br>- Initial Release.<br>- Features a dark mode (and a pure black mode, perfect for OLED screens!) for: <br>- Control Center.<br> - Folders and Bolders!<br>- Action Sheets.<br>- Keyboard.<br>- Spotlight.<br>- 3D-Touch Menus.<br>- Widgets.<br>- Page Dots.<br>- Notifications.<br>- Palert Blur View.<br>- Lockscreen Wallpaper.<br>- More options will be added.<br>- And soon for apps too!<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://imgur.com/a/ipLI1G3/' target='_blank'><img width=95% src='https://i.imgur.com/WT8w49y.jpg'/></a><br></div>",
+	"notes": "Configure options from settings",
+	"warning": "<strong>Found a bug?</strong><br>Email me: dpkg9510@gmail.com<br>",
+	"open": true,
+}
