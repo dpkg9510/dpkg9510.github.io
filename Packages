@@ -28,6 +28,21 @@ Name: Apollo4OLED
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.apollo4oled
 
+Package: com.dpkg.batterypercent12
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.batterypercent12_1.0-12_iphoneos-arm.deb
+Size: 3864
+Installed-Size: 120
+MD5sum: 461f6dc2c3ee8d0974ab0a45d5f0edd8
+Description: Shows battery percentage inside the icon. 
+Name: Batterypercent12
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercent12
+
 Package: com.dpkg.better3dmenus
 Version: 2.4
 Section: Tweaks

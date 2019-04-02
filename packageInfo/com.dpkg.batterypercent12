@@ -1,0 +1,11 @@
+{
+	"name": "BatteryPercent12",
+	"desc_short": null,
+	"desc_long": "Enables the battery percentage inside the icon",
+	"compatitle": "iOS 12",
+	"changelog": "<strong>1.0-12</strong><br>- Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/gCQ3qns.jpg' target='_blank'><img width=95% src='https://i.imgur.com/gCQ3qns.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/tpZsVsc.jpg' target='_blank'><img width=95% src='https://i.imgur.com/tpZsVsc.jpg'/></a><br></div>",
+	"notes": "This will only work on iOS 12 and also requires a modern statusbar.",
+	"warning": "<strong>Known issues<strong><br>sometimes the percentage disappears when switching between apps, or connecting to a charger, but as soon as it’s unplugged it shows up again.<br>",
+	"open": true,
+}
