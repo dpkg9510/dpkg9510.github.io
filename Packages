@@ -165,6 +165,22 @@ Name: CleanUI
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
+Package: com.dpkg.colormysb
+Version: 0.9~beta1
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.colormysb_0.9~beta1_iphoneos-arm.deb
+Size: 12556
+Installed-Size: 168
+MD5sum: 7f24642ad6817b5113b3c39ea94f3250
+Description: Liven up your modern StatusBar!
+Name: ColorMySB
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ColorMySB
+Icon: file:///Library/PreferenceBundles/ColorMySB.bundle/icon@2x.png
+
 Package: com.dpkg.custombatterycolor
 Version: 0.0.1
 Section: Tweaks
