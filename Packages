@@ -178,7 +178,7 @@ MD5sum: 7f24642ad6817b5113b3c39ea94f3250
 Description: Liven up your modern StatusBar!
 Name: ColorMySB
 Author: Mohamed Galal <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.ColorMySB
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.colormysb
 Icon: file:///Library/PreferenceBundles/ColorMySB.bundle/icon@2x.png
 
 Package: com.dpkg.custombatterycolor
