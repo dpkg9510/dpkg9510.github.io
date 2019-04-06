@@ -166,15 +166,15 @@ Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.colormysb
-Version: 0.9~beta2
+Version: 0.9~beta3
 Section: Tweaks
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.colormysb_0.9~beta2_iphoneos-arm.deb
-Size: 13782
+Filename: ./debs/com.dpkg.colormysb_0.9~beta3_iphoneos-arm.deb
+Size: 13758
 Installed-Size: 168
-MD5sum: 16ee014da01e21e7764629f4ff23bfcd
+MD5sum: 39cdd6b992db340f02201ef42c905451
 Description: Liven up your modern StatusBar!
 Name: ColorMySB
 Author: Mohamed Galal <dpkg9510@gmail.com>
