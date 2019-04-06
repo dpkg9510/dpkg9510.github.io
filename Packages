@@ -166,15 +166,15 @@ Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.cleanui
 
 Package: com.dpkg.colormysb
-Version: 0.9~beta1
+Version: 0.9~beta2
 Section: Tweaks
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.colormysb_0.9~beta1_iphoneos-arm.deb
-Size: 12556
+Filename: ./debs/com.dpkg.colormysb_0.9~beta2_iphoneos-arm.deb
+Size: 13782
 Installed-Size: 168
-MD5sum: 7f24642ad6817b5113b3c39ea94f3250
+MD5sum: 16ee014da01e21e7764629f4ff23bfcd
 Description: Liven up your modern StatusBar!
 Name: ColorMySB
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -275,15 +275,15 @@ Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.jellyfish
 Icon: file:///Library/PreferenceBundles/Jellyfish.bundle/icon@2x.png
 
 Package: com.dpkg.jellyfishxs
-Version: 0.9.9-1
+Version: 0.9.9-2
 Section: Tweaks
 Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.jellyfishxs_0.9.9-1_iphoneos-arm.deb
-Size: 30842
-Installed-Size: 296
-MD5sum: 0feedbb786df4f13e503daf04d9cc925
+Filename: ./debs/com.dpkg.jellyfishxs_0.9.9-2_iphoneos-arm.deb
+Size: 40870
+Installed-Size: 312
+MD5sum: 247ba26e917a30269613b4f7d6f35a5a
 Description: A free OLED-friendly dark mode.
 Name: JellyfishXS
 Author: Mohamed Galal <dpkg9510@gmail.com>
