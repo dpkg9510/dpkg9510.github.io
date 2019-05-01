@@ -8,6 +8,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.byevsd.deb
 Size: 910
 MD5sum: 05652f02fa55477f3bfff29a640f7e5e
+SHA1: b028287e5d0cf9b890f5c91768a06cab9f8fddb8
+SHA256: 40db90447ed57464739fc91e171d40f0e2533a1d2d9dde503f045fda8f087bf1
 Description: A powerful, yet safe way to stop Videosubscriptionsd.
 Name: ByeVSD
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -23,6 +25,8 @@ Filename: ./debs/com.dpkg.apollo4oled_1.3_iphoneos-arm.deb
 Size: 4072
 Installed-Size: 120
 MD5sum: 253df5adc02e94d1cc9452bf77459b6b
+SHA1: 7ee548f56c7484f0b60f90eb4e88f29c22f85b48
+SHA256: c34762cae4ba9335d66336149a8b467abd69f3119ea18259e80a8df961124b12
 Description: True-black theme for Apollo.
 Name: Apollo4OLED
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -38,6 +42,8 @@ Filename: ./debs/com.dpkg.batterypercent12_1.0-97_iphoneos-arm.deb
 Size: 3934
 Installed-Size: 120
 MD5sum: f5394561cb16e6c25a3d234fc939236d
+SHA1: 79f33fff83a0693cf1a35bb08871ee3983fb2e32
+SHA256: 1215f51e8adc6e24d884eecc1aaa5f2bb0c2997a72676e24add0c4de66ef98ab
 Description: Shows battery percentage inside the icon. 
 Name: BatteryPercent12
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -53,6 +59,8 @@ Filename: ./debs/com.dpkg.better3dmenus_2.4_iphoneos-arm.deb
 Size: 17014
 Installed-Size: 264
 MD5sum: c7efd5ad577a38d86d92654e018a4d8a
+SHA1: 2a6b210c47276d7a101775b3b3a59155852e0d7a
+SHA256: 2740fd06dc13e751f7a6a726b5b0d66b7557b2f8bd6d30059686daf48ec65ca4
 Description: Better 3D-Touch Menus!
 Name: Better3DMenus
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -69,6 +77,8 @@ Filename: ./debs/com.dpkg.blurbe_1.0.5_iphoneos-arm.deb
 Size: 13628
 Installed-Size: 256
 MD5sum: b15d607f622360eaa6c675c28755f908
+SHA1: 714086d55e72997e6184307455373caf273016d2
+SHA256: 0eca970603a8f9f716446871e70b71b18d2170400245335fbcfbc5903be0be16
 Description: Darker blur in many areas. 
 Name: Blurbe
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -85,6 +95,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.cappd.deb
 Size: 996
 MD5sum: 426876416e412a6e4a67f20b81ec022b
+SHA1: b92d27e70592104b33d2600bcc3e2c641c779fb6
+SHA256: 21d293e9d2ed6bea44ba8a8d3bbb97134136fdaf32c8fe4a810da869239af6c7
 Description: Safely disable some executables/daemons.
 Name: Cappd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -100,6 +112,8 @@ Filename: ./debs/com.dpkg.ccbigmodules_0.0.1_iphoneos-arm.deb
 Size: 2658
 Installed-Size: 120
 MD5sum: 5a3baa148c782d1aeec61bc897acc071
+SHA1: ec043cb0ccc155593910f914e352ccdbd8790613
+SHA256: 454fa6fa3d7656f0f08d144962e73d8a33f59b878e6c614b045e74a1765a040b
 Description: Bigger CC Modules/Buttons.
 Name: CCBigModules
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -115,6 +129,8 @@ Filename: ./debs/com.dpkg.ccblackbg_0.0.1_iphoneos-arm.deb
 Size: 2938
 Installed-Size: 120
 MD5sum: 40dcf614fdae5c6ac128f23a58ace9d8
+SHA1: baa407dc65412e035fbe282aba718e740cf7e918
+SHA256: 46288b9a6de032e0a448ecf23e312bc82d23bec00ad481850552280736bb53b6
 Description: A bug-free black CC background.
 Name: CCBlackBG
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -130,6 +146,8 @@ Filename: ./debs/com.dpkg.ccdarkblur_0.0.1_iphoneos-arm.deb
 Size: 2928
 Installed-Size: 120
 MD5sum: 44e1ce3553634fe4bcecdfe3fbaf7b1b
+SHA1: 66148b84d44bd0e66fce3dc083d5e9e5b6965819
+SHA256: 3c9bc7ac9534eae6d19e2f3708b4b6fd9326ed65562d84e1d1f4657adf2753ae
 Description: Darker CC Blur.
 Name: CCDarkBlur
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -145,6 +163,8 @@ Filename: ./debs/com.dpkg.ccnodelay_0.0.1_iphoneos-arm.deb
 Size: 2564
 Installed-Size: 120
 MD5sum: 0aaf70135ce1c03de61f84bb57d5e4c1
+SHA1: 289a3352a7021919f93b1a16d03ae0d96414db19
+SHA256: d8f80a0a0afc16b70cdb7f88f174c94ac23e2b9ea127737edb9809a67977f4b1
 Description: Fixes LittleX & FUGap CC Delay
 Name: CCNoDelay
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -160,6 +180,8 @@ Filename: ./debs/com.dpkg.cleanui_1.0_iphoneos-arm.deb
 Size: 10626
 Installed-Size: 152
 MD5sum: 5d71b949fbc00d97dabc7b943c3f3ae8
+SHA1: 152965ebab5d0c774f6136de539a3310574e98ab
+SHA256: 7126399a32aa12c9a4d7ce00969686608a7b8e2954f77072dc80492416e1f5fd
 Description: A cleaner user interface.
 Name: CleanUI
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -175,6 +197,8 @@ Filename: ./debs/com.dpkg.colormysb_0.9~beta3_iphoneos-arm.deb
 Size: 13758
 Installed-Size: 168
 MD5sum: 39cdd6b992db340f02201ef42c905451
+SHA1: 84528062aa428634bad51460c6d43368797c05ec
+SHA256: 07d8058c07d5b49ff5af224f7d95191e4adc493c519f6b977c6dc69fd6c5ed28
 Description: Liven up your modern StatusBar!
 Name: ColorMySB
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -191,6 +215,8 @@ Filename: ./debs/com.dpkg.custombatterycolor_0.0.1_iphoneos-arm.deb
 Size: 11290
 Installed-Size: 252
 MD5sum: 91419362614eec35ff15b692c2f87df6
+SHA1: 8c7984a1625ff247a2ad2d999e41b1df0ab5144b
+SHA256: 6048cecdb541f456e14fc10c9c1912afbbf571c7fdf921a0b01ad2f4c97e06e0
 Description: Set a custom color for the battery view.
 Name: CustomBatteryColor
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -207,6 +233,8 @@ Filename: ./debs/com.dpkg.customcccolor_0.0.1_iphoneos-arm.deb
 Size: 16186
 Installed-Size: 256
 MD5sum: 7ef4d82750f64c018bde81d18fa503ed
+SHA1: f990716690b9e33b1efb4c04546399a0a2a8b838
+SHA256: 1f06893b44add332b04aa0f82656ca9d73fb27b4d6c36949e6fd7f53360333f1
 Description: Set a custom CC background color.
 Name: CustomCCColor
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -223,6 +251,8 @@ Filename: ./debs/com.dpkg.darktables_1.9_iphoneos-arm.deb
 Size: 8064
 Installed-Size: 248
 MD5sum: de2872663ee78e13f867d989eb872d74
+SHA1: e34218a90a018bc8511c5f46cc3ef898ab0e8999
+SHA256: a4f1fe18cbf1cc00dbc1b376599150caee56aa24cb4d41695f1cb8b1a4f3c90a
 Description: System-wide dark action table views.
 Name: DarkTables
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -238,6 +268,8 @@ Filename: ./debs/com.dpkg.darktables_1.9_iphoneos-arm.deb
 Size: 2970
 Installed-Size: 120
 MD5sum: ae296b283239cf0e2f0af73ea7bd4381
+SHA1: ef093d20afd01f5cbf4504a53f14d8048c414b9f
+SHA256: 676c2e86c352fae8e5147c4fc8ec8a522243bf2a6fda88b5289f7fa93e5441cb
 Description: Dark mode for the Weather app.
 Name: DarkWeather
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -253,6 +285,8 @@ Filename: ./debs/com.dpkg.ipadswitcher_1.0_iphoneos-arm.deb
 Size: 8346
 Installed-Size: 248
 MD5sum: a92ed3effaa45b14d02ed9b873b12b8a
+SHA1: 5932e34cb6aa497987e1317c3377956d67568edd
+SHA256: 75682e3cb8ec157529c76949bf21d4e678dc33b9f801421712cbe3f40fc44d51
 Description: Bring the iPad grid switcher to any device.
 Name: iPadSwitcher
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -268,6 +302,8 @@ Filename: ./debs/com.dpkg.jellyfish_0.1.9b_iphoneos-arm.deb
 Size: 65952
 Installed-Size: 3632
 MD5sum: 156b9ac297499b68288da434b900ab52
+SHA1: 235e56f1fbfde14ae6ebd9d6ac6d96353cd2d180
+SHA256: 8a6c51a9f58d50adfe0a9ce1d86c62ca606c4ae740bf2a890ff0e1aec2a061e0
 Description: A true-black dark mode.
 Name: Jellyfish
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -284,6 +320,8 @@ Filename: ./debs/com.dpkg.jellyfishxs_0.9.9-2_iphoneos-arm.deb
 Size: 40870
 Installed-Size: 312
 MD5sum: 247ba26e917a30269613b4f7d6f35a5a
+SHA1: bdceb436d65834147a717182aef9428b37814abe
+SHA256: 00ca6e726059dbbdadd7a488350704bafb66351c68dac78a14fd5748b7ea3cf3
 Description: A free OLED-friendly dark mode.
 Name: JellyfishXS
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -299,6 +337,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.musiclibraryfix.deb
 Size: 772
 MD5sum: 901be31c293b6efd2e4e32fc9eda6e83
+SHA1: 5338529f4ae4754c5678503b39aec38b039e4d64
+SHA256: b0102f9850f5a9c18c6bd76c61223e13eb6d9f088e8a57a2facea48a3323d17d
 Description: Fix the errors you get when importing music.
 Name: MusicLibraryFix
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -314,6 +354,8 @@ Filename: ./debs/com.dpkg.mwhitetext_0.2_iphoneos-arm.deb
 Size: 2794
 Installed-Size: 120
 MD5sum: 1091c348348041e7191157121fbd39b2
+SHA1: 6c884429ab4208207a36ecd5db456ea5b96b9aa1
+SHA256: ceaaaafb0d95f7e1a4e11dd7846a39f5c0ab888df3c7094f8aeb72ad6954a731
 Description: Fixes the now playing text in the music app.
 Name: MWhiteText
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -329,6 +371,8 @@ Filename: ./debs/com.dpkg.nocursor_0.0.1_iphoneos-arm.deb
 Size: 3308
 Installed-Size: 120
 MD5sum: 5f9234c9eecb5e72189b7ce5565a6f61
+SHA1: b49a2ed4ef1cccddb5af86189e3459eafe9e5a34
+SHA256: 0b798f80613192f70909ba6ca64418a0cda14c52e6341ebd9ad9da92271b3494
 Description: Disable the cursor when typing anywhere.
 Name: NoCursor
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -344,6 +388,8 @@ Filename: ./debs/com.dpkg.noheaders_0.0.1_iphoneos-arm.deb
 Size: 2854
 Installed-Size: 120
 MD5sum: 3ca1d6e661700b270e66fe79537e9339
+SHA1: 6ae9afa0e3b8f34b6278f8db92026bc9128ea9d1
+SHA256: 96df20f3be3ca98337d07a954b4c890877248d6fdf86ce14fd6fafec8f5786a9
 Description: Remove headers from widgets and banners.
 Name: NoHeaders
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -359,6 +405,8 @@ Filename: ./debs/com.dpkg.nouicacheplz_1.0_iphoneos-arm.deb
 Size: 2758
 Installed-Size: 120
 MD5sum: 3c9608af244661fb2e42fc5ce4db7a9d
+SHA1: cbdc69dff486daa9d8bfec721555b71c95f540aa
+SHA256: 9b5823c26ff3722f3f464b14983405eca851ec4c3c02e48f266da2a02a7a03db
 Description: Stop Cydia from running UICache with every package installation.
 Name: NoUICachePlz
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -374,6 +422,8 @@ Filename: ./debs/com.dpkg.statusbarxs_1.2_iphoneos-arm.deb
 Size: 3656
 Installed-Size: 120
 MD5sum: e95337113eef977d10bbcb8371b454aa
+SHA1: 6a0711f93b965c3bacf752347785f3782bb62901
+SHA256: cf2b67111809c51100ab8d4b20d687889d3e55e7f413d58bcd3a176068304400
 Description: Enable the “modern” statusbar on any device.
 Name: StatusBarXS
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -389,6 +439,8 @@ Filename: ./debs/com.dpkg.VHUD_0.0.1_iphoneos-arm.deb
 Size: 2486
 Installed-Size: 120
 MD5sum: d32028e5ef7e2b3d0240915841774cf2
+SHA1: 556d23acb683efa9e0a24314f4f0cbfc2dd37148
+SHA256: 31313da56adb4ddf6fa8c084776207acb7264da894ca313b7650f8ac3125ad8d
 Description: Show the system volume HUD in all apps.
 Name: VHUD
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -404,6 +456,8 @@ Filename: ./debs/com.dpkg.washaresheetfix_1.0_iphoneos-arm.deb
 Size: 6196
 Installed-Size: 248
 MD5sum: ce1402754c51d69173d5fb1d6921155c
+SHA1: 77648c2c46cf7b765aea13e02bb600ca27e014c8
+SHA256: 25596254d3c68de160a411aa1eb4dc7f60fb63ba10d7179ea76110278af03dd0
 Description: WA Share Sheet Background Fix For Eclipse.
 Name: WAShareSheetFix
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -419,6 +473,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.exvsd.deb
 Size: 1346
 MD5sum: a6e46d0929ab439475ab4ce2d8ba1ace
+SHA1: b6c92e3afddfc7ff69cd5bc922596b23e9b7c824
+SHA256: 5b016e8865901bb7b6d7ab0fecfba91a0bde7db4ff48f9b00115c38fd2d4023f
 Description: A launchd property list file that disables Videosubscriptionsd.
 Name: EXVSD
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -434,6 +490,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.killvsd.deb
 Size: 768
 MD5sum: 40cb536a4288acbe34a2404d7794681e
+SHA1: 095a4ef1a08ffa5a39aa1548632e523d32edac33
+SHA256: 1b1a96baf2f6eae140d07ca5e57b4696f5997acf48dea0cb617543b23c1a48e2
 Description: Kill Videosubscriptionsd.
 Name: KillVSD
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -448,6 +506,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadapd.deb
 Size: 866
 MD5sum: b1c4abd8a381e3038c58a7dece559ad4
+SHA1: ee3cfe5e70594fdfc91d6b06c17bb94e86d66e35
+SHA256: 62569dd8fda463be4e36a4ee3130d9afb4b6eab73e39b2461f7fd55cd3b4ceb4
 Description: Unloads Askpermissiond whenever you’re jailbroken.
 Name: unloadApd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -462,6 +522,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadatd.deb
 Size: 864
 MD5sum: beeb1a89e2022fe77bca438b3891915b
+SHA1: e3bc24f21cd313071ecc9334cb94e926feefe0d2
+SHA256: 206a356e3f5ceb9faa1cfd0eef1c5f1304cdfd29550205357454fe3f29ea78e8
 Description: Unloads Adtrackingd whenever you’re jailbroken.
 Name: unloadAtd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -476,6 +538,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadnano.deb
 Size: 866
 MD5sum: 7f51d820857456d374c24f9bea08b73e
+SHA1: 667a008ea4f0923917b9ac6f7d5611c49124f3e2
+SHA256: 200802c20914e18f0cfa596916c975702fffd1669b9a9c078747fffd12ea9f1d
 Description: Unloads Nanobackupd whenever you’re jailbroken.
 Name: unloadNano
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -490,6 +554,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadnfcd.deb
 Size: 862
 MD5sum: 44dda4f5664bc709b7fca2596e128039
+SHA1: 6892d740c9be4948f391b09741e83bf37b1f830e
+SHA256: 5de7c1bb43e6378d6476c138c84ca467cd049ceba3f96dae86dedb766cb5349b
 Description: Unloads Nfcd whenever you’re jailbroken.
 Name: unloadNfcd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -504,6 +570,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadrpd.deb
 Size: 860
 MD5sum: c8103bb50e963a755907d8eeb6ea7d33
+SHA1: 24f9d9a8d7ecbc03b58997dc6cedc1d256e1d1f2
+SHA256: 7850b398ae41de9829c3f9282d6315dce37dd127db1f4af82fe8a24b489ac8ea
 Description: Unloads Rapportd whenever you’re jailbroken.
 Name: unloadRpd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -518,6 +586,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadschpa.deb
 Size: 878
 MD5sum: 812dd9a6d9d90fd50d3e6caf5e67cc8b
+SHA1: de379c5ed301adeffc722bb727cda3b97b6ebd5f
+SHA256: 53e763d7f5617ea2701f201b754c840038646d6652cb2ec1922f1d692dc17839
 Description: Unloads SafariCloudHistoryPushAgentd whenever you’re jailbroken.
 Name: unloadSchpa
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -532,6 +602,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadsd.deb
 Size: 850
 MD5sum: 0b5921f6abac1082567d6ebf12a3f997
+SHA1: 0c1cdf05ca03ef2010b1a232a8213a6ca2b6beca
+SHA256: ac5e87d138decce532049b99000a9ee82da65a96cf34e96e96386cc3f6630022
 Description: Unloads Sharingd whenever you’re jailbroken.
 Name: unloadSd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -546,6 +618,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadtipsd.deb
 Size: 848
 MD5sum: d11867c319f048a26861507de12b0068
+SHA1: e6b9f95fecd1bc1f5bf6e6855e092b9d8c3f29ef
+SHA256: f4c397de285d96b50ec63c6e2a1438f255e4713fc337cce85004ca97a44430de
 Description: Unloads Tipsd whenever you’re jailbroken.
 Name: unloadTipsd
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -560,6 +634,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloaduad.deb
 Size: 874
 MD5sum: 3938c44876c739d50d4cee302d8b9d2c
+SHA1: 80f20a9d561f3d3936ac89fde4ff5370365a29f4
+SHA256: 8687fb38db7e919a2bf5a0b42acf4b4cec93d0de4ca7c3bd8901951cf7488322
 Description: Unloads Useractivityd whenever you’re jailbroken.
 Name: unloadUad
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -574,6 +650,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadVSD.deb
 Size: 1700
 MD5sum: 44a9c0bec9823a9cda4fd49cb4161743
+SHA1: 3b09dceac382f8a79c7c58faee9203133cf31bcd
+SHA256: 31f66a4edcb0bb13df15073306398fa3260e6700bb882d54fd06b05f83438909
 Description: Unloads Videosupscriptionsd whenever you’re jailbroken.
 Name: unloadVSD
 Author: Mohamed Galal <dpkg9510@gmail.com>
@@ -588,6 +666,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.dpkg.unloadwbd.deb
 Size: 874
 MD5sum: 468fa3d1ccec5293c227ebb1df77091a
+SHA1: 4581cf0999f987d3c181c364d8c6261e2857b197
+SHA256: 70b3ece853c7689bff7452bd901b1dc1e9d26fd1217ed068a926adb9798bc706
 Description: Unloads Webbookmarksd whenever you’re jailbroken.
 Name: unloadWbd
 Author: Mohamed Galal <dpkg9510@gmail.com>
