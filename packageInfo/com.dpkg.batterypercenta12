@@ -1,0 +1,11 @@
+{
+	"name": "BatteryPercentA12",
+	"desc_short": null,
+	"desc_long": "Enables the battery percentage inside the icon. For a customizable version with a preference pane, use the version on Bigboss.. This version is for A12 devices but will work on any other devices as well.",
+	"compatitle": "iOS 12",
+	"changelog": "<strong>1.012</strong><br>- Arm64e (A12) support.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/HmJBiIx.jpg' target='_blank'><img width=95% src='https://i.imgur.com/HmJBiIx.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/tpZsVsc.jpg' target='_blank'><img width=95% src='https://i.imgur.com/tpZsVsc.jpg'/></a><br></div><div style='text-align:center;'><a href='https://i.imgur.com/BamlpkN.jpg' target='_blank'><img width=95% src='https://i.imgur.com/BamlpkN.jpg'/></a><br></div>",
+	"notes": "<strong>Note:</strong><br>I spent a lot of time on this tweak and a lot more rewriting it for A12 support and it's still free, please consider buying me a coffee for my time <3<br>",
+	"warning": "This will only work on iOS 12 and also requires a modern statusbar, for notchless devices (E.g. iPhone 8 and iPhone 7), you can use it with StatusBarXS.",
+	"open": true,
+}

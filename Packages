@@ -49,6 +49,24 @@ Name: BatteryPercent12
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercent12
 
+Package: com.dpkg.batterypercenta12
+Version: 1.012
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Conflicts: com.dpkg.batterypercent12
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.batterypercenta12_1.012_iphoneos-arm.deb
+Size: 3164
+Installed-Size: 120
+MD5sum: 4fedf9a75641a9e4cc9588c6be3688ef
+SHA1: 5b1309dcce7fc8a7ae56d66a5903f63dabd2867e
+SHA256: 4ab4e0ed33b846af1ffbed9935a2d3903d11a182840cc7d56650da1948c87701
+Description: Apple's hidden feature to show the battery percentage inside the icon. 
+Name: BatteryPercentA12
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercenta12
+
 Package: com.dpkg.better3dmenus
 Version: 2.4
 Section: Tweaks
