@@ -32,23 +32,6 @@ Name: Apollo4OLED
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.apollo4oled
 
-Package: com.dpkg.batterypercent12
-Version: 1.0-97
-Section: Tweaks
-Maintainer: Mohamed Galal <dpkg9510@gmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.batterypercent12_1.0-97_iphoneos-arm.deb
-Size: 3934
-Installed-Size: 120
-MD5sum: f5394561cb16e6c25a3d234fc939236d
-SHA1: 79f33fff83a0693cf1a35bb08871ee3983fb2e32
-SHA256: 1215f51e8adc6e24d884eecc1aaa5f2bb0c2997a72676e24add0c4de66ef98ab
-Description: Shows battery percentage inside the icon. 
-Name: BatteryPercent12
-Author: Mohamed Galal <dpkg9510@gmail.com>
-Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercent12
-
 Package: com.dpkg.batterypercenta12
 Version: 1.012
 Section: Tweaks
@@ -66,6 +49,23 @@ Description: Apple's hidden feature to show the battery percentage inside the ic
 Name: BatteryPercentA12
 Author: Mohamed Galal <dpkg9510@gmail.com>
 Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercenta12
+
+Package: com.dpkg.batterypercent12
+Version: 1.0-97
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.dpkg.batterypercent12_1.0-97_iphoneos-arm.deb
+Size: 3934
+Installed-Size: 120
+MD5sum: f5394561cb16e6c25a3d234fc939236d
+SHA1: 79f33fff83a0693cf1a35bb08871ee3983fb2e32
+SHA256: 1215f51e8adc6e24d884eecc1aaa5f2bb0c2997a72676e24add0c4de66ef98ab
+Description: Shows battery percentage inside the icon. 
+Name: BatteryPercent12
+Author: Mohamed Galal <dpkg9510@gmail.com>
+Depiction: http://dpkg9510.github.io/description.html?id=com.dpkg.batterypercent12
 
 Package: com.dpkg.better3dmenus
 Version: 2.4
