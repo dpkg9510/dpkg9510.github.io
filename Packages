@@ -56,7 +56,7 @@ Maintainer: Mohamed Galal <dpkg9510@gmail.com>
 Depends: mobilesubstrate
 Conflicts: com.dpkg.batterypercent12
 Architecture: iphoneos-arm
-Filename: ./debs/com.dpkg.batterypercenta12_1.012_iphoneos-arm.deb
+Filename: ./debs/com.dpkg.batterypercenta12_1.0121_iphoneos-arm.deb
 Size: 3164
 Installed-Size: 120
 MD5sum: 4fedf9a75641a9e4cc9588c6be3688ef
